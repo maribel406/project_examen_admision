@@ -10,7 +10,7 @@
       ]
     },
     {
-      "tag": "articulo_1",
+      "tag": "articulo1",
       "patterns": [
         "¿Qué regula el reglamento de admisión de la UNAM?",
         "¿Cuál es la base legal del proceso de admisión en la UNAM?",
@@ -783,12 +783,12 @@
       "tag": "articulo48",
       "patterns": [
         "¿Qué tengo que hacer al llegar al aula el día del examen?",
+        "¿Hay algo que tengo que hacer en el aula del examen?",
         "¿Cómo es el proceso de registro en el aula de examen?",
         "¿Qué formularios debo llenar para la identificación durante el examen?",
         "¿En presencia de quién se realiza el registro el día del examen?",
         "¿Qué procedimientos de identificación se siguen en el examen?",
-        "¿Qué debe hacer un postulante al ingresar al aula de examen?",
-        "¿Cómo se asegura mi identificación el día del examen?"
+        "¿Qué debe hacer un postulante al ingresar al aula de examen?"
       ],
       "responses": [
         "El día del examen de admisión, los postulantes deben registrarse en presencia del aplicador de aula, llenando los formatos específicos necesarios para su identificación.",
@@ -800,9 +800,9 @@
       "tag": "articulo49",
       "patterns": [
         "¿Cuándo debo entregar los documentos originales si ingreso a la UNAM?",
-        "¿Qué documentos debo presentar después de los resultados?",
+        "¿Qué documentos debo presentar después de los resultados de admision?",
         "¿Hay un plazo para entregar mis documentos después de saber si ingresé?",
-        "¿Dónde entrego mis documentos originales una vez admitido?",
+        "¿Dónde entrego mis documentos originales una vez admitido o haver ingresado?",
         "¿Qué pasa si me admiten en la UNAM en términos de documentación?",
         "¿Cuánto tiempo tengo para presentar mi certificado de secundaria?",
         "¿Qué documentos son necesarios después de ser admitido?"
@@ -819,7 +819,6 @@
         "¿Qué requisitos deben cumplir los certificados de estudios?",
         "¿Cómo deben estar sellados los certificados de estudios?",
         "¿Qué se necesita si el certificado de estudios es digital?",
-        "¿Qué pasa si hay borrones o enmendaduras en mi certificado?",
         "¿Cómo verifican la autenticidad de los certificados digitales?",
         "¿Qué debe aparecer en los certificados de estudios?"
       ],
@@ -833,9 +832,9 @@
       "patterns": [
         "¿Qué deben presentar los ingresantes por la modalidad Titulados o Graduados en la UNAM?",
         "¿Qué se requiere para el trámite de convalidación de cursos según TUPA?",
-        "¿Cómo se valida el certificado de estudios universitarios para esta modalidad?",
+        "¿Cómo se valida el certificado de estudios universitarios para la modalidad Titulados o Graduados?",
         "¿Qué documentos originales deben presentar los ingresantes por modalidad Titulados o Graduados en la UNAM?",
-        "¿Cuál es el proceso para la convalidación de cursos en esta modalidad?"
+        "¿Cuál es el proceso para la convalidación de cursos para la modalidad Titulados o Graduados?"
       ],
       "responses": [
         "Los ingresantes por la modalidad Titulados o Graduados en la UNAM deben presentar una copia fedateada por la universidad de origen o notarial de su certificado de estudios universitarios. Además, deben presentar el documento original para el trámite de convalidación de cursos según el TUPA (Texto Único de Procedimientos Administrativos). La validación del certificado de estudios universitarios es esencial en esta modalidad."
@@ -845,13 +844,13 @@
     {
       "tag": "articulo52",
       "patterns": [
-        "¿Cuáles son las razones por las cuales alguien puede perder el derecho de ingreso a la UNAM?",
-        "¿Qué sucede si no entregas todos los documentos originales a tiempo?",
-        "¿En qué casos se puede ser sancionado según este reglamento?",
-        "¿Qué ocurre si renuncias o abandonas la vacante otorgada?",
+        "¿Cuáles son las razones por las cuales alguien puede perder el derecho de ingreso a la UNAM una vez dada el examen de admision?",
+        "¿Qué sucede si no entregas todos los documentos originales a tiempo luego de dar el examen de ingreso?",
+        "¿Qué ocurre si renuncias o abandonas la vacante otorgadas luego de ser admitido?",
         "¿Qué sucede si se comete un acto ilícito en el Concurso de Admisión?",
-        "¿Cómo se llenan las vacantes liberadas según este artículo?",
-        "¿Qué artículo del reglamento establece cómo se llenan las vacantes liberadas?"
+        "¿Qué artículo del reglamento establece cómo se llenan las vacantes liberadas?",
+        "¿Qué pasa si no entrego todos los documentos originales a tiempo luego de dar el examen de ingreso?"
+
       ],
       "responses": [
         "Quienes pueden perder el derecho de ingreso a la UNAM incluyen a aquellos que no entreguen todos los documentos originales dentro del plazo establecido según el Artículo 49° y 50° ,de acuerdo con la modalidad de ingreso. También, quienes hayan sido sancionados en aplicación del presente reglamento, renuncien o abandonen la vacante otorgada, o hayan cometido un acto ilícito en cualquier etapa del Concurso de Admisión. Las vacantes liberadas se llenan de acuerdo con lo estipulado en el Artículo 39° del reglamento de EXAMEN GENERAL DEL PROCESO DE ADMISIÓN ."
@@ -861,7 +860,7 @@
     {
       "tag": "articulo53",
       "patterns": [
-        "¿En qué casos un ingresante puede solicitar una ampliación de plazo para la presentación de documentos?",
+        "Se puede solicitar un plazo para presentar la documentación luego de ser admitido para el ingreso?",
         "¿Cuál es el procedimiento para solicitar una ampliación de plazo?",
         "¿Cómo se justifican las razones para solicitar una ampliación de plazo?",
         "¿Qué se necesita para solicitar una extensión en la presentación de documentación?",
@@ -869,7 +868,7 @@
         "¿Qué se debe incluir en el documento de solicitud de ampliación de plazo?"
       ],
       "responses": [
-        "De manera excepcional y por razones ajenas al ingresante, este puede solicitar una ampliación de plazo para la presentación de la documentación correspondiente mediante un documento formal. Las razones y el procedimiento para justificar esta solicitud deben estar claramente especificados en el documento. Esta medida se permite para casos extraordinarios en los que el ingresante no puede cumplir con los plazos establecidos."
+        "De manera excepcional y por razones ajenas al ingresante, este puede solicitar una ampliación de plazo para la presentación de la documentación correspondiente mediante un documento formal. Las razones y el procedimiento para justificar esta solicitud deben estar claramente especificados en el documento. Esta medida se permite para casos extraordinarios en los que el ingresante no puede cumplir con los plazos establecidos. Para mayor información se puede comunicar con la dirección de Admisión"
       ]
     },
 
@@ -881,7 +880,10 @@
         "¿Qué se requiere para solicitar la Constancia de Ingreso?",
         "¿Qué documentos deben entregar junto con la solicitud de Constancia de Ingreso?",
         "¿Cuándo se debe pagar el recibo por la Constancia de Ingreso?",
-        "¿Cuál es el plazo establecido para solicitar la Constancia de Ingreso según el TUPA?"
+        "¿Cuál es el plazo establecido para solicitar la Constancia de Ingreso según el TUPA?",
+        "¿Quiero mi Constancia de Ingreso donde lo solicito?",
+        "¿Cómo solicito mi Constancia de Ingreso?",
+        "¿Cuales son los requisitos para obtener mi Constancia de Ingreso?"
       ],
       "responses": [
         "Los ingresantes del Examen de Admisión Cepre, Ordinario y Extraordinario deben solicitar su Constancia de Ingreso dentro de las 72 horas a partir de la publicación de los resultados. Además de la solicitud, deben entregar un recibo de pago por la Constancia de Ingreso, según lo establecido en el TUPA (Texto Único de Procedimientos Administrativos). Este plazo es esencial para trámites externos que requieran la constancia.",
@@ -909,7 +911,10 @@
         "¿Cómo se llevará a cabo el ingreso de los postulantes a las instalaciones del examen?",
         "¿Dónde se puede encontrar el horario de ingreso para el examen?",
         "¿Qué sucede si un postulante llega después del horario establecido?",
-        "¿Cuál es el procedimiento para el ingreso a las instalaciones del examen?"
+        "¿Cuál es el procedimiento para el ingreso a las instalaciones del examen?",
+        "¿Existen excepciones o circunstancias especiales que permitan el ingreso de postulantes después del horario establecido?",
+        "¿Desde que hora puedo ingresar a la instalación para dar mi examen?"
+
       ],
       "responses": [
         "El ingreso de los postulantes a las instalaciones donde se rendirá el examen se realizará de acuerdo con el horario publicado en la web y en sus correos institucionales respectivos. Es importante destacar que bajo ninguna circunstancia se permitirá el ingreso de los postulantes que lleguen después del horario establecido. Por lo tanto, es esencial que los postulantes se adhieran estrictamente al horario proporcionado para evitar cualquier inconveniente.",
@@ -933,7 +938,27 @@
         "El ingreso del postulante a las instalaciones donde se llevará a cabo el examen de admisión Extraordinario u Ordinario General se efectuará siguiendo los protocolos establecidos para el desarrollo del examen. Estos protocolos estarán disponibles en la página web oficial y se enviarán a los correos institucionales respectivos de los postulantes. Es esencial estar pendiente de la comunicación de estos protocolos para garantizar un ingreso sin contratiempos y cumplir con las disposiciones establecidas."
       ]
     },
-
+    {
+      "tag": "articulo58",
+      "patterns": [
+        "¿Cuáles son las faltas que pueden llevar a la inhabilitación de un postulante en el proceso de admisión?",
+        "¿Cuáles son las consecuencias de presentar documentos falsos o adulterados durante la inscripción?",
+        "¿Qué sucede si un postulante proporciona información falsa durante el proceso de admisión?",
+        "¿Qué sanciones se aplican a los postulantes que colaboran en las infracciones mencionadas?",
+        "¿Qué pasa si no sigo los protocolos en el examen?",
+        "¿Qué ocurre si presento documentos falsos en la inscripción?",
+        "¿Qué sucede si doy datos falsos durante el proceso de admisión?",
+        "¿Qué consecuencias hay si hago reclamos inadecuados o agredo al personal?",
+        "¿Qué pasa si ayudo a otros a cometer infracciones durante el examen?",
+        "¿Puedo ser inhabilitado si fui sancionado en otra universidad por faltas graves?",
+        "¿Cuál será el protocolo específico para el ingreso al examen?",
+        "¿Dónde puedo encontrar los protocolos para el desarrollo del examen?"
+      ],
+      "responses": [
+        "El Artículo 58 del Reglamento de Admisión establece que las faltas que pueden llevar a la inhabilitación de un postulante en el proceso de admisión incluyen incumplir protocolos, presentar documentos falsos, proporcionar datos falsos, realizar reclamos inapropiados, colaborar en infracciones y haber sido sancionado en otras universidades por hechos regulados en el artículo 59. Las sanciones pueden ser desde la inhabilitación temporal hasta la inhabilitación definitiva de postular a la UNAM, dependiendo de la gravedad de la falta.",
+        "Incurrir en actos como no cumplir con los protocolos del examen, presentar documentos falsos, proporcionar datos falsos, realizar reclamos inadecuados, colaborar en infracciones, o haber sido sancionado en otras universidades por faltas graves, puede llevar a la inhabilitación para postular en el presente proceso de admisión o a la anulación del ingreso si se logra una vacante. La universidad puede evaluar la sanción de inhabilitación definitiva en casos de faltas graves."
+      ]
+    },
     {
       "tag": "articulo59",
       "patterns": [
@@ -941,7 +966,10 @@
         "¿Qué pasa si alguien me suplanta o si suplanto a otro en el examen?",
         "¿Qué ocurre si participo en la sustracción de la prueba de admisión?",
         "¿Qué consecuencias hay si llevo dispositivos electrónicos al examen?",
-        "¿Qué pasa si atento contra la integridad o el patrimonio de la universidad?"
+        "¿Qué pasa si atento contra la integridad o el patrimonio de la universidad?",
+        "¿Cuales son las faltas muy graves?",
+        "¿Que actos son consideradas como faltas muy graves",
+        "Si llevo un dispositivo electrónico al examen ¿Cual es la sanción?"
       ],
       "responses": [
         "Faltas como la divulgación de datos personales por parte del personal de la UNAM, la suplantación durante el examen, la participación en la sustracción de la prueba, portar dispositivos electrónicos en el examen, o atentar contra la integridad o patrimonio de la universidad, son consideradas muy graves. Estas pueden conllevar a denuncias penales ante el Ministerio Público. Además, los estudiantes de la UNAM o empleados involucrados en dichos actos serán incluidos en la denuncia penal y se abrirá un proceso disciplinario en su contra."
@@ -951,9 +979,9 @@
     {
       "tag": "articulo60",
       "patterns": [
-        "¿Qué hace la Comisión Central de Admisión si cometo una infracción según los artículos 58 y 59?",
-        "¿Cómo se decide la separación o inhabilitación de un postulante que infringe las reglas?",
-        "¿Qué proceso sigue la Comisión Central de Admisión para tomar medidas contra un postulante que infringe el reglamento?"
+        "¿Qué hace la Comisión Organziadora si cometo una infracción o falta según los artículos 58 y 59?",
+        "¿Cómo se decide la separación o inhabilitación de un postulante que infringe las reglas del proceso de admisión?",
+        "¿Qué proceso se sigue para tomar medidas contra un postulante que infringe el reglamento del proceso de admisión?"
       ],
       "responses": [
         "La Dirección de Admisión solicitará al Presidente de la Comisión Organizadora la emisión de una Resolución para la separación o inhabilitación del postulante que realice alguna infracción de acuerdo a los artículos 58 y 59 del presente reglamento, previa evaluación legal y a través de una sesión ordinaria."
@@ -968,10 +996,14 @@
         "¿Qué tipo de fotografía debo presentar para la inscripción?",
         "¿Qué pasa si doy información falsa en mi declaración jurada?",
         "¿Cuáles son los requisitos básicos para la inscripción al examen de admisión?",
-        "¿Qué debo hacer si mi documento de inscripción está deteriorado o manchado?"
+        "¿Qué debo hacer si mi documento de inscripción está deteriorado o manchado?",
+        "¿Donde optengo el Formato 1 para inscribirme al proceso de admision 2024-I?",
+        "¿Cuales son los requisitos para llenar el Formato 1?",
+        "¿Puedo presentar el formato llenado en un editor pdf",
+        "¿Donde optengo la declaración jurada de inscripción?"
       ],
       "responses": [
-        "Para la inscripción al proceso de admisión 2024-I de la UNAM se requiere: 1) Registro en línea de la inscripción, 2) Certificado de estudios o constancia de logros de aprendizaje, que se puede obtener en https://constancia.minedu.gob.pe, y 3) Fotografía reciente a color en fondo blanco, 4) Documento Nacional de Identidad. Además, es necesario conocer y cumplir con todas las disposiciones y sanciones del Reglamento de Admisión 2023-II. Presentar información falsa en la declaración jurada puede resultar en un delito contra la fe pública y falsificación de documentos. Es importante recordar que no se procederá con la inscripción si los documentos están deteriorados, manchados o borrosos."
+        "Para la inscripción al proceso de admisión 2024-I de la UNAM se requiere: 1) Registro en línea de la inscripción, 2) Certificado de estudios o constancia de logros de aprendizaje, que se puede obtener en https://constancia.minedu.gob.pe, y 3) Fotografía reciente a color en fondo blanco, 4) Documento Nacional de Identidad. Además, es necesario conocer y cumplir con todas las disposiciones y sanciones del Reglamento de Admisión 2023-II. Presentar información falsa en la declaración jurada puede resultar en un delito contra la fe pública y falsificación de documentos. Es importante recordar que no se procederá con la inscripción si los documentos están deteriorados, manchados o borrosos. Este formato podras encontrar en el REGLAMENTO GENERAL DEL PROCESO DE ADMISION 2024-I Pág. 22"
       ]
     },
 
@@ -979,7 +1011,6 @@
       "tag": "formato_02",
       "patterns": [
         "¿Qué necesito presentar para inscribirme como primero o segundo puesto de mi escuela?",
-        "¿Dónde consigo el certificado de estudios o constancia de logros de aprendizaje?",
         "¿Qué pasa si ya he usado mi derecho de admisión como primer o segundo puesto en otra universidad?",
         "¿Qué tipo de fotografía debo presentar para la inscripción?",
         "¿Cuáles son las consecuencias de proporcionar información falsa en mi declaración jurada?",
@@ -988,10 +1019,10 @@
         "¿Qué tipo de fotografía debo presentar para la inscripción en la modalidad de primeros puestos?",
         "¿Necesito una constancia de mérito de mi centro educativo para inscribirme?",
         "¿Puedo inscribirme en esta modalidad si ya usé mi derecho de primer o segundo puesto en otra universidad?",
-        "¿Qué debo hacer si mi documentación está deteriorada o manchada?"
+        "¿La constancia o certificado otorgado por mi institución es obligatoria para postular como primero o segundo puesto de mi escuela?"
       ],
       "responses": [
-        "Para inscribirte en la UNAM bajo la modalidad de primeros puestos de instituciones educativas necesitas: 1) Una constancia o certificado otorgado por el director de tu centro educativo que acredite tu orden de mérito, 2) Certificado de estudios de educación secundaria o constancia de logros de aprendizaje, que puedes obtener en https://constancia.minedu.gob.pe, 3) Declaración jurada de no haber usado el derecho de admisión del primer o segundo puesto en ninguna universidad a nivel nacional, y 4) Fotografía a color en fondo blanco, 5)Documento Nacional de Identidad. Declarar falsamente puede resultar en un delito contra la fe pública y falsificación de documentos. Importante: No se procederá con la inscripción si los documentos están deteriorados, manchados o borrosos."
+        "Para inscribirte en la UNAM bajo la modalidad de primeros puestos de instituciones educativas necesitas: 1) Una constancia o certificado otorgado por el director de tu centro educativo que acredite tu orden de mérito, 2) Certificado de estudios de educación secundaria o constancia de logros de aprendizaje, que puedes obtener en https://constancia.minedu.gob.pe, 3) Declaración jurada de no haber usado el derecho de admisión del primer o segundo puesto en ninguna universidad a nivel nacional, y 4) Fotografía a color en fondo blanco, 5)Documento Nacional de Identidad. Declarar falsamente puede resultar en un delito contra la fe pública y falsificación de documentos. Importante: No se procederá con la inscripción si los documentos están deteriorados, manchados o borrosos.  Este formato podras encontrar en el REGLAMENTO GENERAL DEL PROCESO DE ADMISION 2024-I Pág. 23"
       ]
     },
 
@@ -1002,7 +1033,8 @@
         "¿Qué pasa si la información que proporciono en el Formato N° 03 es falsa?",
         "¿Cuál es la consecuencia legal de proporcionar información falsa en el Formato N° 03?",
         "¿Qué debo hacer si ya he utilizado mi derecho de admisión como primero o segundo puesto en otra universidad?",
-        "¿Qué debo verificar antes de presentar el Formato N° 03?"
+        "¿Qué debo verificar antes de presentar el Formato N° 03?",
+        "¿Donde encuentro la declaracion jurada de no haber hecho uso del derecho de admisión del primer o segundo puesto en ninguna universidad pública o privada a nivel nacional?"
       ],
       "responses": [
         "En el Formato N° 03, debes declarar bajo juramento que no has hecho uso del derecho de admisión del primer o segundo puesto en ninguna otra universidad a nivel nacional. Si la información que proporcionas resulta ser falsa, declaras haber incurrido en el delito de falsa declaración en procesos administrativos y delito contra la Fe Pública, según el artículo 411º del Código Penal y la Ley Nº 27444 de Procedimientos Administrativos General. Importante: El formulario no será válido si está deteriorado, manchado o borroneado."
