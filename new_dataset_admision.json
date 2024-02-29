@@ -1064,7 +1064,6 @@
         "¿Dónde obtengo la constancia del Consejo Nacional de Calificación para el Plan Integral de Reparaciones?",
         "¿Es necesario el certificado de estudios secundarios para inscribirme en esta modalidad?",
         "¿Puedo inscribirme en esta modalidad si ya he accedido a educación superior como víctima según el Plan Integral de Reparaciones?",
-        "¿Qué tipo de fotografía debo presentar para la inscripción bajo esta modalidad?",
         "¿Qué ocurre si proporciono información falsa en mi declaración jurada bajo el Plan Integral de Reparaciones?",
         "¿Qué debo hacer si mi documentación está deteriorada o manchada?"
       ],
@@ -1076,7 +1075,7 @@
     {
       "tag": "formato_06",
       "patterns": [
-        "¿Qué debo declarar en el Formato N° 06 para el proceso de admisión 2023-II?",
+        "¿Qué debo declarar en el Formato N° 06 para el proceso de admisión 2024-I?",
         "¿Qué pasa si la información que proporciono en el Formato N° 06 es falsa?",
         "¿Cuáles son las consecuencias legales de proporcionar información falsa en el Formato N° 06?",
         "Si ya utilicé mi derecho de admisión como víctima de terrorismo o bajo el plan integral de reparaciones en otra universidad, ¿puedo inscribirme en la UNAM?",
@@ -1098,20 +1097,20 @@
         "¿Cómo me inscribo en la UNAM si soy egresado de un Colegio de Alto Rendimiento?",
         "¿Qué documento necesito para probar mi educación en un Colegio de Alto Rendimiento?",
         "Si ya utilicé la modalidad de egresado de Colegio de Alto Rendimiento en otra universidad, ¿puedo usarla de nuevo en la UNAM?",
-        "¿Qué tipo de foto necesito para la inscripción como egresado de Colegio de Alto Rendimiento?",
+        "¿Que documento debo presentar para postular en modalidad de egresado COAR?",
         "¿Qué ocurre si doy información falsa en la declaración jurada para egresados de Colegios de Alto Rendimiento?",
         "¿Debo presentar alguna declaración jurada especial como egresado de Colegio de Alto Rendimiento?",
         "¿Puedo inscribirme en la UNAM bajo esta modalidad si ya utilicé un beneficio similar en otra universidad?"
       ],
       "responses": [
-        "Para inscribirte en la UNAM como egresado de un Colegio de Alto Rendimiento necesitas: 1) Certificado de estudios o constancia de logros de aprendizaje, que puedes obtener en https://constancia.minedu.gob.pe, 2) Declaración jurada de no haber utilizado esta modalidad en otras universidades, y 3) Fotografía reciente a color en fondo blanco, 4)Documento Nacional de Identidad. Si proporcionas información falsa, podrías incurrir en un delito contra la fe pública y falsificación de documentos. Importante: La documentación no será válida si está deteriorada, manchada o borroneada."
+        "Para inscribirte en la UNAM como egresado de un Colegio de Alto Rendimiento necesitas: 1) Constancia de haber egresado de un colegio de alto rendimiento en el año 2022 y 2023 expedido por el colegio de origen, 2) Certificado de estudios o constancia de logros de aprendizaje, que puedes obtener en https://constancia.minedu.gob.pe, 3) Declaración jurada de no haber utilizado esta modalidad en otras universidades, y 4) Fotografía reciente a color en fondo blanco, 5)Documento Nacional de Identidad. Si proporcionas información falsa, podrías incurrir en un delito contra la fe pública y falsificación de documentos. Importante: La documentación no será válida si está deteriorada, manchada o borroneada."
       ]
     },
 
     {
       "tag": "formato_08",
       "patterns": [
-        "¿Qué debo declarar específicamente en el Formato N°08 para el proceso de admisión 2023-II?",
+        "¿Qué debo declarar específicamente en el Formato N°08 para el proceso de admisión 2024-I?",
         "¿Puedo haber usado mi derecho de admisión bajo la Modalidad Egresado de COAR en otra universidad y postular a la Universidad Nacional de Moquegua?",
         "¿Qué ocurre si se descubre que he utilizado mi derecho de admisión bajo la Modalidad Egresado de COAR en otra universidad?",
         "¿Qué implica hacer una declaración falsa en el Formato N°08?",
@@ -1135,17 +1134,18 @@
         "¿Es necesario comprometerse a participar en el equipo de la universidad?",
         "¿Qué tipo de fotografía debo presentar para el proceso de admisión como deportista calificado?",
         "¿Qué consecuencias legales enfrento si mi declaración jurada es falsa?",
-        "¿Qué sucede si mi declaración jurada está deteriorada, manchada o borronada?"
+        "¿Qué sucede si mi declaración jurada está deteriorada, manchada o borronada?",
+        "Qué requisitos necesito cumplir para postular en modalidad de deportista?"
       ],
       "responses": [
-        "Para inscribirse en la UNAM bajo la Modalidad de Deportista Calificado, se requieren los siguientes documentos: 1) Certificado de estudios o constancia de logros de aprendizaje, 2) Resolución emitida por el Presidente del Instituto Peruano del Deporte o su equivalente local, 3) Declaración jurada de no haber sido sancionado por falta grave o actividades antideportivas, 4) Documento compromiso de participación en la representación del equipo de la universidad, y 5) Fotografía reciente a color en fondo blanco, 6)Documento Nacional de Identidad. En caso de falsedad en la declaración jurada, se incurre en el delito de falsificación de documentos según el Art. 427º del Código Penal y el TUO de la Ley de Procedimiento Administrativo General. La declaración jurada no procede si se encuentra deteriorada, manchada o borronada."
+        "Para inscribirse en la UNAM bajo la Modalidad de Deportista Calificado, se requieren los siguientes documentos: 1) Resolución emitida por el Presidente del Instituto Peruano del Deporte o su equivalente local, 2) Certificado de estudios o constancia de logros de aprendizaje, 3) Declaración jurada de no haber sido sancionado por falta grave o actividades antideportivas, 4) Documento compromiso de participación en la representación del equipo de la universidad, y 5) Fotografía reciente a color en fondo blanco, 6)Documento Nacional de Identidad. En caso de falsedad en la declaración jurada, se incurre en el delito de falsificación de documentos según el Art. 427º del Código Penal y el TUO de la Ley de Procedimiento Administrativo General. La declaración jurada no procede si se encuentra deteriorada, manchada o borronada."
       ]
     },
 
     {
       "tag": "formato_10",
       "patterns": [
-        "¿Qué debo declarar bajo juramento en el Formato N°10 para el proceso de admisión 2023-II?",
+        "¿Qué debo declarar bajo juramento en el Formato N°10 para el proceso de admisión 202-II?",
         "¿Qué implica no haber sido sancionado por falta grave o actividades antideportivas?",
         "¿A qué sanciones me enfrento si mi declaración jurada en el Formato N°10 es falsa?",
         "¿Qué sucede si mi declaración jurada del Formato N°10 está deteriorada, manchada o borronada?",
@@ -1156,7 +1156,7 @@
         "¿Hay algún procedimiento de seguimiento si se descubre una irregularidad en mi declaración jurada?"
       ],
       "responses": [
-        "En el Formato N°10 para el proceso de admisión 2023-II de la Universidad Nacional de Moquegua, el postulante debe declarar bajo juramento 'No haber sido sancionado por falta grave o actividades antideportivas por el Tribunal o Comisión de Justicia de la Federación o Comisión Nacional respectiva'. En caso de falsedad en la declaración jurada, se incurre en el delito de falsa declaración en Procesos Administrativos - Artículo 411º del Código Penal y en el Delito contra la Fe Pública - Título XIX del Código Penal y artículo 32º de la Ley Nº 27444 Ley de Procedimientos Administrativos General. La declaración jurada no procede si se encuentra deteriorada, manchada o borronada."
+        "En el Formato N°10 para el proceso de admisión 2024-I de la Universidad Nacional de Moquegua, el postulante debe declarar bajo juramento 'No haber sido sancionado por falta grave o actividades antideportivas por el Tribunal o Comisión de Justicia de la Federación o Comisión Nacional respectiva'. En caso de falsedad en la declaración jurada, se incurre en el delito de falsa declaración en Procesos Administrativos - Artículo 411º del Código Penal y en el Delito contra la Fe Pública - Título XIX del Código Penal y artículo 32º de la Ley Nº 27444 Ley de Procedimientos Administrativos General. La declaración jurada no procede si se encuentra deteriorada, manchada o borronada."
       ]
     },
 
@@ -1210,6 +1210,7 @@
         "¿Qué documentos adicionales necesito para acreditar mi título o grado académico en el Formato N°13 para esta modalidad?",
         "¿Qué pasa si mi declaración jurada en el Formato N°13 para la Modalidad de Graduados y/o Titulados Universitarios está deteriorada, manchada o borronada?",
         "¿Se puede aceptar una declaración jurada deteriorada, manchada o borronada en el Formato N°13 para la Modalidad de Graduados y/o Titulados Universitarios?"
+       
       ],
       "responses": [
         "Para el proceso de admisión 2024-I de la Universidad Nacional de Moquegua, bajo la Modalidad de Graduados y/o Titulados Universitarios, el postulante debe declarar bajo juramento en el Formato N°13 contar con un título o grado académico específico en la especialidad que indica. Proporcionar información falsa en esta declaración jurada puede resultar en el delito de falsa declaración en Procesos Administrativos - Artículo 411º del Código Penal y Delito contra la Fe Pública - Título XIX del Código Penal acorde al artículo 32º de la Ley Nº 27444 Ley de Procedimientos Administrativos General. La declaración jurada no procede si se encuentra deteriorada, manchada o borronada."
@@ -1226,7 +1227,8 @@
         "¿Qué declaro respecto a mi institución de procedencia para el Traslado Externo?",
         "¿Es necesario presentar una fotografía a color en fondo blanco para la Modalidad de Traslado Externo?",
         "¿Qué pasa si proporciono información falsa en mi declaración jurada para el Traslado Externo?",
-        "¿Qué sucede si mi declaración jurada del Formato N°14 para la Modalidad de Traslado Externo está deteriorada, manchada o borronada?"
+        "¿Qué sucede si mi declaración jurada del Formato N°14 para la Modalidad de Traslado Externo está deteriorada, manchada o borronada?",
+        "¿Que formato debo presentar para postular bajo la modalidad de traslado externo?"
       ],
       "responses": [
         "Para inscribirse en la UNAM bajo la Modalidad de Traslado Externo, se requieren los siguientes documentos y declaraciones: 1) Certificado de estudios universitarios que acrediten haber aprobado al menos cuatro periodos lectivos semestrales o dos anuales o setenta y dos créditos, 2) Certificado de estudios de educación secundaria o constancia de logros de aprendizaje, 3) Declaración jurada de no tener antecedentes penales, 4) Declaración jurada de no haber sido separado de su institución de procedencia por medida disciplinaria o falta grave, 5) Fotografía a color en fondo blanco, 6)Documento Nacional de Identidad. Proporcionar información falsa en esta declaración puede resultar en sanciones legales. La declaración no procede si está deteriorada,manchada o borronada."
@@ -1247,7 +1249,8 @@
         "¿Cómo afectan los antecedentes penales a mi solicitud de admisión?",
         "¿Qué documentos necesito para probar que no tengo antecedentes penales?",
         "¿Se verifica la información sobre antecedentes penales proporcionada en el Formato N°15?",
-        "¿En qué casos los antecedentes penales podrían ser relevantes para el proceso de admisión?"
+        "¿En qué casos los antecedentes penales podrían ser relevantes para el proceso de admisión?",
+        "¿Cuál es el formato para declarar que no tenego antecedentes penales?"
       ],
       "responses": [
         "En el Formato N°15 para el proceso de admisión 2024-I de la Universidad Nacional de Moquegua, el postulante debe declarar bajo juramento no tener antecedentes penales. Debe firmar y registrar su huella digital. Proporcionar información falsa en esta declaración puede resultar en el delito de falsa declaración en Procesos Administrativos – Artículo 411º del Código Penal y Delito contra la Fe Pública – Título XIX del Código Penal acorde al artículo 32º de la Ley Nº 27444 Ley de Procedimientos Administrativos General. La declaración no procede si está deteriorada, manchada o borronada."
@@ -1257,7 +1260,7 @@
     {
       "tag": "formato_16",
       "patterns": [
-        "¿Qué debo declarar en el Formato N°16 para el proceso de admisión 2023-II?",
+        "¿Qué debo declarar en el Formato N°16 para el proceso de admisión 2024-I?",
         "¿Cómo impacta una separación previa por conducta disciplinaria en mi admisión a la UNAM?",
         "¿Qué consecuencias legales enfrento si miento sobre mi historial disciplinario en el Formato N°16?",
         "¿Es necesario informar sobre separaciones previas de universidades por motivos disciplinarios o faltas graves?",
@@ -1272,7 +1275,7 @@
         "¿Qué pasa si el Formato N°16 está deteriorado, manchado o borronado?"
       ],
       "responses": [
-        "En el Formato N°16 para el proceso de admisión 2024-I de la Universidad Nacional de Moquegua, el postulante debe declarar bajo juramento 'No haber sido separado de la universidad de procedencia por conducta disciplinaria o falta grave durante mis años de estudio'. Declaraciones falsas pueden resultar en sanciones legales. Es importante ser transparente sobre cualquier incidente disciplinario o falta grave que pueda haber resultado en una separación de una institución anterior. La declaración no procede si está deteriorada, manchada o borronada."
+        "En el Formato N°16 para el proceso de admisión 2024-I de la Universidad Nacional de Moquegua, el postulante debe declarar bajo juramento 'No haber sido separado de la universidad de procedencia por conducta disciplinaria o falta grave durante mis años de estudio'. Declaraciones falsas pueden resultar en sanciones legales. Es importante ser transparente sobre cualquier incidente disciplinario o falta grave que pueda haber resultado en una separación de una institución anterior. La declaración no procede si está deteriorada, manchada o borronada. El formato debe ser firmado por el solicitante y/o su representante legal, junto con la huella digital del estudiante."
       ]
     },
 
@@ -1305,10 +1308,11 @@
         "¿Es necesario detallar algún proceso disciplinario anterior en la UNAM en el Formato N°18?",
         "¿Cómo se verifica la información sobre procesos disciplinarios en el Formato N°18?",
         "¿Qué sucede si he sido sancionado previamente en la UNAM?",
-        "¿Pueden afectar las sanciones disciplinarias anteriores mi proceso de admisión en la UNAM?"
+        "¿Pueden afectar las sanciones disciplinarias anteriores mi proceso de admisión en la UNAM?",
+        "¿De que trata el formato N° 18?"
       ],
       "responses": [
-        "En el Formato N°18 para el proceso de admisión 2024-I de la Universidad Nacional de Moquegua, el postulante debe declarar bajo juramento 'No haber sido sancionado o estar en curso de proceso disciplinario en la Universidad Nacional de Moquegua'. Proporcionar información falsa en esta declaración puede resultar en el delito de falsa declaración en Procesos Administrativos - Artículo 411º del Código Penal y Delito contra la Fe Pública - Título XIX del Código Penal acorde al artículo 32º de la Ley Nº 27444 Ley de Procedimientos Administrativos General. La declaración no procede si está deteriorada, manchada o borronada."
+        "En el Formato N°18 para el proceso de admisión 2024-I de la Universidad Nacional de Moquegua, el postulante debe declarar bajo juramento 'No haber sido sancionado o estar en curso de proceso disciplinario en la Universidad Nacional de Moquegua'. Proporcionar información falsa en esta declaración puede resultar en el delito de falsa declaración en Procesos Administrativos - Artículo 411º del Código Penal y Delito contra la Fe Pública - Título XIX del Código Penal acorde al artículo 32º de la Ley Nº 27444 Ley de Procedimientos Administrativos General. La declaración no procede si está deteriorada, manchada o borronada. El formato debe ser firmado por el solicitante y/o su representante legal, junto con la huella digital del estudiante."
       ]
     },
 
@@ -1316,16 +1320,16 @@
       "tag": "formato_19",
       "patterns": [
         "¿Qué debo declarar en el Formato N°19 para el proceso de admisión?",
-        "¿Cómo puedo asegurarme de no adeudar material bibliográfico para la admisión?",
         "¿Qué consecuencias legales enfrento si proporciono información falsa en el Formato N°19?",
         "¿Es necesario especificar la escuela profesional en la que no adeudo material bibliográfico?",
         "¿Qué sucede si mi declaración jurada del Formato N°19 está deteriorada, manchada o borronada?",
         "¿Cómo se verifica el no adeudo de material bibliográfico en el proceso de admisión?",
         "¿Qué tipo de material bibliográfico debo considerar en mi declaración jurada?",
-        "¿Puede afectar un adeudo previo de material bibliográfico mi admisión en la UNAM?"
+        "¿Puede afectar un adeudo previo de material bibliográfico mi admisión en la UNAM?",
+        "¿Para que es el formato N° 19?"
       ],
       "responses": [
-        "En el Formato N°19 para el proceso de admisión 2024-I de la Universidad Nacional de Moquegua, el postulante debe declarar bajo juramento 'No adeudar material bibliográfico durante mis años de estudio' en la escuela Profesional de su elección. Proporcionar información falsa en esta declaración puede resultar en el delito de falsa declaración en Procesos Administrativos - Artículo 411º del Código Penal y Delito contra la Fe Pública - Título XIX del Código Penal acorde al artículo 32º de la Ley Nº 27444 Ley de Procedimientos Administrativos General. La declaración no procede si está deteriorada, manchada o borronada."
+        "En el Formato N°19 para el proceso de admisión 2024-I de la Universidad Nacional de Moquegua, el postulante debe declarar bajo juramento 'No adeudar material bibliográfico durante mis años de estudio' en la escuela Profesional de su elección. Proporcionar información falsa en esta declaración puede resultar en el delito de falsa declaración en Procesos Administrativos - Artículo 411º del Código Penal y Delito contra la Fe Pública - Título XIX del Código Penal acorde al artículo 32º de la Ley Nº 27444 Ley de Procedimientos Administrativos General. La declaración no procede si está deteriorada, manchada o borronada.El formato debe ser firmado por el solicitante y/o su representante legal, junto con la huella digital del estudiante. "
       ]
     },
 
@@ -1336,13 +1340,13 @@
         "¿Qué tipo de carnet necesito para acreditar mi discapacidad en la admisión?",
         "¿Cómo puedo comprobar que cumplo con los requisitos de discapacidad para la admisión?",
         "¿Es necesario presentar el certificado de estudios secundarios para la Modalidad de Personas con Discapacidad?",
-        "¿Qué tipo de fotografía debo presentar para el proceso de admisión como persona con discapacidad?",
+        "¿Qué formato debo llenar si soy persona con discapacidad?",
         "¿Qué consecuencias legales enfrento si proporciono información falsa en el Formato N°20?",
         "¿Qué sucede si mi declaración jurada del Formato N°20 está deteriorada, manchada o borronada?",
         "¿Es el carnet de CONADIS obligatorio para postular bajo esta modalidad?"
       ],
       "responses": [
-        "En el Formato N°20 para el proceso de admisión 2024-I de la Universidad Nacional de Moquegua, el postulante debe declarar bajo juramento que cumple con los requisitos para ingresar bajo la Modalidad de Personas con Discapacidad. Esto incluye tener un carnet expedido por el CONADIS, certificado de estudios de educación secundaria o constancia de logros de aprendizaje, una fotografía a color en fondo blanco Y Documento Nacional de Identidad. Proporcionar información falsa en esta declaración puede resultar en sanciones legales. La declaración no procede si está deteriorada, manchada o borronada."
+        "En el Formato N°20 para el proceso de admisión 2024-I de la Universidad Nacional de Moquegua, el postulante debe declarar bajo juramento que cumple con los requisitos para ingresar bajo la Modalidad de Personas con Discapacidad. Esto incluye tener un carnet expedido por el CONADIS, certificado de estudios de educación secundaria o constancia de logros de aprendizaje, una fotografía a color en fondo blanco Y Documento Nacional de Identidad. Proporcionar información falsa en esta declaración puede resultar en sanciones legales. La declaración no procede si está deteriorada, manchada o borronada. Finalmente, el formato debe ser firmado por el solicitante y/o su representante legal, junto con la huella digital del estudiante."
       ]
     },
 
@@ -1355,10 +1359,11 @@
         "¿Qué documentos necesito presentar si nací en el extranjero para la Modalidad de Convenio Andrés Bello?",
         "¿Qué tipo de fotografía debo presentar para la inscripción bajo la Modalidad de Convenio Andrés Bello?",
         "¿Qué consecuencias legales enfrento si proporciono información falsa en el Formato N°21?",
-        "¿Qué sucede si mi declaración jurada del Formato N°21 está deteriorada, manchada o borronada?"
+        "¿Qué sucede si mi declaración jurada del Formato N°21 está deteriorada, manchada o borronada?",
+        "¿Qué documentos debo presentar para postular bajo la modalidad de Convenio Andrés Bello?"
       ],
       "responses": [
-        "En el Formato N°21 para el proceso de admisión 2023-II de la Universidad Nacional de Moquegua, el postulante debe declarar bajo juramento que cumple con los requisitos para ingresar bajo la Modalidad de Convenio Andrés Bello. Esto incluye: 1) Certificado de convalidación y/o revalidación de estudios emitido por el MINEDU, 2) Certificado de estudios secundarios acreditado por la entidad educativa oficial del país de procedencia, 3) Partida de nacimiento, pasaporte o carnet de extranjería si el alumno nació en el extranjero, 4) Fotografía a color en fondo blanco, 5)Documento Nacional de Identidad. Proporcionar información falsa en esta declaración puede resultar en sanciones legales. La declaración no procede si está deteriorada, manchada o borronada."
+        "En el Formato N°21 para el proceso de admisión 2024-I de la Universidad Nacional de Moquegua, el postulante debe declarar bajo juramento que cumple con los requisitos para ingresar bajo la Modalidad de Convenio Andrés Bello. Esto incluye: 1) Certificado de convalidación y/o revalidación de estudios emitido por el MINEDU, 2) Certificado de estudios secundarios acreditado por la entidad educativa oficial del país de procedencia, 3) Partida de nacimiento, pasaporte o carnet de extranjería si el alumno nació en el extranjero, 4) Fotografía a color en fondo blanco, 5)Documento Nacional de Identidad. Proporcionar información falsa en esta declaración puede resultar en sanciones legales. La declaración no procede si está deteriorada, manchada o borronada. Finalmente, el formato debe ser firmado por el solicitante y/o su representante legal, junto con la huella digital del estudiante."
       ]
     },
 
@@ -1374,12 +1379,12 @@
         "¿Cuál es el proceso para cancelar el monto correspondiente al derecho de examen de admisión?",
         "¿Dónde debo firmar en el Formato N°22 y es necesaria la huella dactilar?",
         "¿Qué significa 'Índice Derecho' en la sección de la huella digital del Formato N°22?",
-        "¿Cómo puedo confirmar que mi preinscripción ha sido exitosa?",
         "¿Necesito la firma de un apoderado si soy menor de edad al momento de la preinscripción?",
-        "¿Qué ocurre si mi Formato N°22 está deteriorado o tiene errores al momento de entregarlo?"
+        "¿Qué ocurre si mi Formato N°22 está deteriorado o tiene errores al momento de entregarlo?",
+        "¿Qué formato se debe presentar para solicitar la preincipción del postulante?"
       ],
       "responses": [
-        "Para completar el Formato N°22 de preinscripción en la UNAM, necesitarás proporcionar tu nombre completo, DNI, fecha de nacimiento, sexo, información de contacto, detalles de tu institución educativa previa, la carrera a la que postulas y la sede de examen. Además, debes cancelar el monto correspondiente al derecho de examen de admisión y presentar el recibo. Es importante que el formulario esté firmado y, si es necesario, acompañado de tu huella dactilar. En caso de ser menor de edad, se requerirá la firma de un apoderado. Asegúrate de que el formulario no esté deteriorado, manchado o borronado al entregarlo."
+        "Para completar el Formato N°22 de preinscripción en la UNAM, necesitarás proporcionar tu nombre completo, DNI, fecha de nacimiento, sexo, información de contacto(dirección,telefono,correo), detalles de tu institución educativa previa, la carrera a la que postulas y la sede de examen. Además, debes cancelar el monto correspondiente al derecho de examen de admisión y presentar el recibo. Es importante que el formulario esté firmado y  acompañado de tu huella dactilar. En caso de ser menor de edad, se requerirá la firma de un apoderado. Asegúrate de que el formulario no esté deteriorado, manchado o borronado al entregarlo."
       ]
     }
   ]
