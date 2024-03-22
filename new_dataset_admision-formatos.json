@@ -212,12 +212,9 @@
         "¿Qué responsabilidades tengo con respecto a la vestimenta durante los entrenamientos y eventos deportivos?",
         "¿Qué debo hacer con el equipo deportivo proporcionado por la UNAM?",
         "¿Cómo debo comportarme en los entrenamientos y competencias de la UNAM?",
-        "¿Qué se espera de mi comportamiento con profesores, personal y compañeros en la UNAM?",
-        "¿Qué pasa si no sigo las reglas de la UNAM sobre control institucional?",
         "¿Puedo usar las instalaciones deportivas de la UNAM fuera de los entrenamientos?",
         "¿Puedo permitir que usen mi nombre y foto para promocionar el deporte?",
-        "¿Qué pasa si llego tarde a las clases de entrenamiento?",
-        "¿Qué debo hacer con mi ropa durante los entrenamientos y eventos deportivos?"
+        "compromiso de honor como deportista calificado"
       ],
       "responses": [
         "El compromiso de honor como deportista calificado en la UNAM implica cumplir con las guías normativas, reglamentos y disposiciones académicas y administrativas de la Universidad. Esto incluye responsabilidades como no promover actividades que perjudiquen la imagen de la universidad, cuidar y asumir costos de reposición del material deportivo entregado, asistir puntualmente a entrenamientos, respetar a profesores y compañeros, utilizar adecuadamente la infraestructura deportiva, cumplir con el reglamento interno, y autorizar el uso de nombre y fotografía para promoción del deporte. El incumplimiento de estos compromisos puede llevar a la descalificación o retiro de la Universidad."
@@ -230,23 +227,11 @@
         "¿Qué documentos necesito presentar para inscribirme como graduado o titulado universitario en la UNAM?",
         "¿Qué debo declarar en la declaración jurada para graduados o titulados universitarios?",
         "¿Qué tipo de fotografía debo presentar para el proceso de admisión como graduado o titulado universitario?",
-        "¿Cuáles son las consecuencias si proporciono información falsa en mi declaración jurada?",
-        "¿Qué sucede si mi declaración jurada está deteriorada, manchada o borroneada?",
         "¿Es necesario presentar el certificado de estudios de educación superior universitaria para la inscripción?",
-        "¿Qué ocurre si no presentó el título o grado académico en la declaración jurada?",
-        "¿Es obligatorio presentar una declaración jurada indicando mi título o grado académico?",
         "¿Qué tipo de sanciones se aplican por falsificación de documentos en el proceso de inscripción?",
         "¿Cómo puedo asegurarme de que mi declaración jurada cumpla con los requisitos de la UNAM?",
         "¿Qué papeles debo llevar para inscribirme como graduado o titulado universitario en la UNAM?",
-        "¿Qué debo decir en la declaración jurada como graduado o titulado universitario?",
-        "¿Qué tipo de foto debo llevar para el proceso de admisión como graduado o titulado universitario?",
-        "¿Qué pasa si digo algo falso en mi declaración jurada?",
-        "¿Qué pasa si mi declaración jurada está dañada, manchada o borrosa?",
-        "¿Es necesario mostrar el certificado de estudios universitarios para inscribirme?",
-        "¿Qué pasa si no muestro el título o grado académico en la declaración jurada?",
-        "¿Tengo que hacer una declaración jurada sobre mi título o grado académico?",
-        "¿Qué castigos hay por falsificar documentos durante la inscripción?",
-        "¿Cómo puedo asegurarme de que mi declaración jurada cumple con los requisitos de la UNAM?"
+        "Como me inscribo en la UNAM bajo la Modalidad de Graduados y/o Titulados Universitarios"
       ],
       "responses": [
         "Para inscribirse en la UNAM bajo la Modalidad de Graduados y/o Titulados Universitarios, se requieren los siguientes documentos: 1) Certificado de estudios de educación superior universitaria, 2) Declaración jurada indicando el título o grado académico que posee, y 3) Fotografía reciente a color en fondo blanco, 4) Documento Nacional de Identidad. En caso de falsedad en la declaración jurada, se incurre en el delito de falsificación de documentos según el Art. 427º del Código Penal y el TUO de la Ley de Procedimiento Administrativo General. La declaración jurada no procede si se encuentra deteriorada, manchada o borroneada."
@@ -275,7 +260,8 @@
         "¿Es suficiente una declaración jurada para verificar mi título o grado académico en el Formato N°13 para la Modalidad de Graduados y/o Titulados Universitarios?",
         "¿Necesito otros documentos para confirmar mi título o grado académico en el Formato N°13 para esta modalidad?",
         "¿Qué pasa si mi declaración jurada en el Formato N°13 para la Modalidad de Graduados y/o Titulados Universitarios está dañada?",
-        "¿Se acepta una declaración jurada dañada en el Formato N°13 para la Modalidad de Graduados y/o Titulados Universitarios?"
+        "¿Se acepta una declaración jurada dañada en el Formato N°13 para la Modalidad de Graduados y/o Titulados Universitarios?",
+        "Declaracion jurada de Modalidad de Graduados y/o Titulados Universitarios"
       ],
       "responses": [
         "Para el proceso de admisión 2024-I de la Universidad Nacional de Moquegua, bajo la Modalidad de Graduados y/o Titulados Universitarios, el postulante debe declarar bajo juramento en el Formato N°13 contar con un título o grado académico específico en la especialidad que indica. Proporcionar información falsa en esta declaración jurada puede resultar en el delito de falsa declaración en Procesos Administrativos - Artículo 411º del Código Penal y Delito contra la Fe Pública - Título XIX del Código Penal acorde al artículo 32º de la Ley Nº 27444 Ley de Procedimientos Administrativos General. La declaración jurada no procede si se encuentra deteriorada, manchada o borroneada."
@@ -290,7 +276,6 @@
         "¿Necesito declarar sobre antecedentes penales para la Modalidad de Traslado Externo?",
         "¿Qué declaró respecto a mi institución de procedencia para el Traslado Externo?",
         "¿Es necesario presentar una fotografía a color en fondo blanco para la Modalidad de Traslado Externo?",
-        "¿Qué pasa si proporciono información falsa en mi declaración jurada para el Traslado Externo?",
         "¿Qué sucede si mi declaración jurada del Formato N°14 para la Modalidad de Traslado Externo está deteriorada, manchada o borroneada?",
         "¿Que formato debo presentar para postular bajo la modalidad de traslado externo?"
       ],
@@ -302,32 +287,23 @@
     {
       "tag": "formato_15",
       "patterns": [
-        "¿Qué debo declarar bajo juramento en el Formato N°15 para el proceso de admisión?",
+        "¿Qué debo declarar bajo juramento en el Formato N°15?",
         "¿Qué implica declarar no tener antecedentes penales en el proceso de admisión?",
-        "¿Cuáles son las consecuencias legales si mi declaración jurada del Formato N°15 es falsa?",
-        "¿Es necesario firmar y poner mi huella digital en el Formato N°15?",
-        "¿Qué sucede si mi declaración jurada del Formato N°15 está deteriorada, manchada o borroneada?",
-        "¿Qué tipo de información de identificación necesito proporcionar en el Formato N°15?",
         "¿Cómo puedo certificar que no tengo antecedentes penales para el proceso de admisión?",
         "¿Es posible ser admitido si tengo antecedentes penales?",
         "¿Cómo afectan los antecedentes penales a mi solicitud de admisión?",
         "¿Qué documentos necesito para probar que no tengo antecedentes penales?",
         "¿Se verifica la información sobre antecedentes penales proporcionada en el Formato N°15?",
-        "¿En qué casos los antecedentes penales podrían ser relevantes para el proceso de admisión?",
         "¿Cuál es el formato para declarar que no tengo antecedentes penales?",
         "¿Qué debo decir bajo juramento en el Formato N°15 para la admisión?",
         "¿Qué significa decir que no tengo antecedentes penales en la admisión?",
-        "¿Qué pasa si mi declaración jurada en el Formato N°15 es falsa?",
-        "¿Tengo que firmar y poner mi huella digital en el Formato N°15?",
-        "¿Qué pasa si mi declaración jurada en el Formato N°15 está dañada?",
         "¿Qué información de identificación debo dar en el Formato N°15?",
         "¿Cómo puedo confirmar que no tengo antecedentes penales para la admisión?",
-        "¿Puedo ser admitido si tengo antecedentes penales?",
         "¿Cómo afectan los antecedentes penales a mi solicitud de admisión?",
         "¿Qué documentos necesito para mostrar que no tengo antecedentes penales?",
         "¿Revisan la información sobre antecedentes penales en el Formato N°15?",
-        "¿Cuándo son importantes los antecedentes penales para la admisión?",
-        "¿Dónde puedo encontrar el formato para declarar que no tengo antecedentes penales?"
+        "¿Dónde puedo encontrar el formato para declarar que no tengo antecedentes penales?",
+        "Antecedentes penales"
       ],
       "responses": [
         "En el Formato N°15 para el proceso de admisión 2024-I de la Universidad Nacional de Moquegua, el postulante debe declarar bajo juramento no tener antecedentes penales. Debe firmar y registrar su huella digital. Proporcionar información falsa en esta declaración puede resultar en el delito de falsa declaración en Procesos Administrativos – Artículo 411º del Código Penal y Delito contra la Fe Pública – Título XIX del Código Penal acorde al artículo 32º de la Ley Nº 27444 Ley de Procedimientos Administrativos General. La declaración no procede si está deteriorada, manchada o borroneada."
@@ -341,28 +317,17 @@
         "¿Cómo impacta una separación previa por conducta disciplinaria en mi admisión a la UNAM?",
         "¿Qué consecuencias legales enfrento si miento sobre mi historial disciplinario en el Formato N°16?",
         "¿Es necesario informar sobre separaciones previas de universidades por motivos disciplinarios o faltas graves?",
-        "¿Qué sucede si mi declaración jurada del Formato N°16 está deteriorada, manchada o borroneada?",
         "¿Cómo se verifica la información sobre la conducta disciplinaria en el Formato N°16?",
         "¿Qué tipo de conducta disciplinaria o faltas graves debo declarar en el Formato N°16?",
         "¿Incluye el Formato N°16 preguntas específicas sobre incidentes disciplinarios anteriores en otras instituciones?",
         "¿Pueden afectar las faltas graves cometidas en otra universidad a mi proceso de admisión en la UNAM?",
-        "¿Qué detalles debo proporcionar sobre mi historial disciplinario en el Formato N°16?",
-        "¿Qué tipo de sanciones o separaciones debo reportar en el Formato N°16?",
         "¿Es necesario especificar la facultad de procedencia y el tipo de falta cometida en el Formato N°16?",
-        "¿Qué pasa si el Formato N°16 está deteriorado, manchado o borroneado?",
         "¿Qué debo decir en el Formato N°16 para la admisión 2024-I?",
         "¿Cómo afecta haber sido separado previamente por conducta disciplinaria mi admisión a la UNAM?",
-        "¿Qué consecuencias legales enfrento si miento sobre mi historial disciplinario en el Formato N°16?",
         "¿Tengo que informar sobre separaciones previas de universidades por motivos disciplinarios o faltas graves?",
-        "¿Qué pasa si mi declaración jurada en el Formato N°16 está dañada?",
-        "¿Cómo verifican la información sobre la conducta disciplinaria en el Formato N°16?",
-        "¿Qué tipo de conducta disciplinaria o faltas graves debo declarar en el Formato N°16?",
         "¿El Formato N°16 incluye preguntas específicas sobre incidentes disciplinarios anteriores en otras instituciones?",
-        "¿Pueden afectar las faltas graves cometidas en otra universidad a mi proceso de admisión en la UNAM?",
-        "¿Qué detalles debo proporcionar sobre mi historial disciplinario en el Formato N°16?",
-        "¿Qué tipo de sanciones o separaciones debo reportar en el Formato N°16?",
         "¿Es necesario especificar la facultad de procedencia y el tipo de falta cometida en el Formato N°16?",
-        "¿Qué pasa si el Formato N°16 está dañado?"
+        "'No haber sido separado de la universidad de procedencia por conducta disciplinaria o falta grave durante mis años de estudio'"
       ],
       "responses": [
         "En el Formato N°16 para el proceso de admisión 2024-I de la Universidad Nacional de Moquegua, el postulante debe declarar bajo juramento 'No haber sido separado de la universidad de procedencia por conducta disciplinaria o falta grave durante mis años de estudio'. Declaraciones falsas pueden resultar en sanciones legales. Es importante ser transparente sobre cualquier incidente disciplinario o falta grave que pueda haber resultado en una separación de una institución anterior. La declaración no procede si está deteriorada, manchada o borronada. El formato debe ser firmado por el solicitante y/o su representante legal, junto con la huella digital del estudiante."
@@ -405,7 +370,7 @@
         "¿Qué condiciones invalidarían la declaración en el Formato N°18?",
         "¿Quién debe firmar el Formato N°18 para el proceso de admisión 2024-I de la Universidad Nacional de Moquegua?",
         "¿Qué información adicional debe incluirse en el Formato N°18?",
-        "'No haber sido sancionado o estar en curso de proceso disciplinario en la Universidad Nacional de Moquegua'",
+        "'No haber sido sancionado o estar en curso de proceso disciplinario en la Universidad Nacional de Moquegua'"
         
       ],
       "responses": [
