@@ -826,7 +826,7 @@
 
     {
       "tag": "articulo48",
-      "patterns": [
+	"patterns": [
         "¿Qué tengo que hacer al llegar al aula el día del examen?",
         "¿Cómo es el proceso de registro en el aula de examen?",
         "¿Qué formularios debo llenar para la identificación durante el examen?",
@@ -844,6 +844,10 @@
     {
       "tag": "articulo49",
       "patterns": [
+	"¿Si obtuve una vacante cuanto tiempo tengo para dejar mis documentos?",
+	"¿Los docuemntos deben ser originales?",
+	"¿Los documentos que debo presentar despues de obtener una vacante deben ser originales",
+			      
         "¿Cuándo debo entregar los documentos originales si ingreso a la UNAM?",
         "¿Qué documentos debo presentar después de los resultados?",
         "¿Hay un plazo para entregar mis documentos después de saber si ingresé?",
@@ -861,7 +865,11 @@
     {
       "tag": "articulo50",
       "patterns": [
-        "¿Qué requisitos deben cumplir los certificados de estudios?",
+        "¿Si mi certificado fue expedido hace cinco años es válido?",
+	"¿Si tengo un curso jalado mi certificado es válido?",
+	"¿Mi certificado lo tengo en digital es válido?",
+	"¿Mi certificado por error le cayo agua podria presentarlo?",
+	"¿Qué requisitos deben cumplir los certificados de estudios?",
         "¿Cómo deben estar sellados los certificados de estudios?",
         "¿Qué se necesita si el certificado de estudios es digital?",
         "¿Qué pasa si hay borrones o enmendaduras en mi certificado?",
@@ -876,7 +884,11 @@
     {
       "tag": "articulo51",
       "patterns": [
-        "¿Qué deben presentar los ingresantes por la modalidad Titulados o Graduados en la UNAM?",
+       	"¿Qué debo presentar si soy ingresante por la modalidad de Titulados?",    
+        "¿Qué deben presentar los ingresantes por la modalidad de Graduados?",
+	"¿Puedo convalidar cursos si soy ingresante y cuales son los requisitos?",    
+	"¿Si soy ingresante, lo documentos que debo presentar dene ser originales?",    
+	"¿Qué deben presentar los ingresantes por la modalidad Titulados o Graduados en la UNAM?",
         "¿Qué se requiere para el trámite de convalidación de cursos según TUPA?",
         "¿Cómo se valida el certificado de estudios universitarios para esta modalidad?",
         "¿Qué documentos originales deben presentar los ingresantes por modalidad Titulados o Graduados en la UNAM?",
@@ -890,7 +902,13 @@
     {
       "tag": "articulo52",
       "patterns": [
-        "¿Cuáles son las razones por las cuales alguien puede perder el derecho de ingreso a la UNAM?",
+
+	"Consegui una vacante pero no alcance a entregar mis documentos ¿Pierdo mi vacante?",
+	"Si abandoné la vacante. ¿Puedo solicitarlo despues ese derecho?",
+	"Estoy en el puesto del ultimo ingresante. ¿Como saber si algun ingresante renuncia o deja la vacante, podré acceder a obtener una vacante segun mi puntaje?",
+	"¿De qué forma podria perder mi derecho de ingreso?",
+	"Si no entregue todo los documentos, ¿Pierdo mi vacante?",
+	"¿Cuáles son las razones por las cuales alguien puede perder el derecho de ingreso a la UNAM?",
         "¿Qué sucede si no entregas todos los documentos originales a tiempo?",
         "¿En qué casos se puede ser sancionado según este reglamento?",
         "¿Qué ocurre si renuncias o abandonas la vacante otorgada?",
@@ -906,7 +924,9 @@
     {
       "tag": "articulo53",
       "patterns": [
-        "¿En qué casos un ingresante puede solicitar una ampliación de plazo para la presentación de documentos?",
+	"¿Podría solicitar ampliación de plazo para la presentación de mis documentos una vez obtenido una vacante?",
+	"¿En que caso procede la ampliación de plazo para la presentacion de mis documentos despues de haber obtenido una vacante?",
+	"¿En qué casos un ingresante puede solicitar una ampliación de plazo para la presentación de documentos?",
         "¿Cuál es el procedimiento para solicitar una ampliación de plazo?",
         "¿Cómo se justifican las razones para solicitar una ampliación de plazo?",
         "¿Qué se necesita para solicitar una extensión en la presentación de documentación?",
@@ -921,7 +941,11 @@
     {
       "tag": "articulo54",
       "patterns": [
-        "¿Cuándo deben solicitar su Constancia de Ingreso los ingresantes del Examen de Admisión Ordinario y Extraordinario?",
+       "¿Qué requisitos debo presentar para solicitar constancia de ingreso?",
+	"¿La solicitud de ingreso puedo presentarlo en cualquier momento?",
+	"¿A partir de que fecha puedo solicitar una constancia de ingreso?",
+	 "En que fecha puedo solicitar mi constncia de ingreso?",     
+	"¿Cuándo deben solicitar su Constancia de Ingreso los ingresantes del Examen de Admisión Ordinario y Extraordinario?",
         "¿Cuánto tiempo tienen para solicitar la Constancia de Ingreso después de la publicación de resultados?",
         "¿Qué se requiere para solicitar la Constancia de Ingreso?",
         "¿Qué documentos deben entregar junto con la solicitud de Constancia de Ingreso?",
@@ -951,7 +975,12 @@
     {
       "tag": "articulo56",
       "patterns": [
-        "¿Cómo se llevará a cabo el ingreso de los postulantes a las instalaciones del examen?",
+
+	"¿Enviaran a travez del correo electronico el horario de ingreso para rendir el examen de admisión?",
+	"Porque medio nos comunicaran el horario de ingreso?",
+	"¿Habra minutos de tolerancia despues finalizado el horario de ingreso?",
+	"Podria presentar justificación si llego tarde a rendir el examen de admisión?",
+	"¿Cómo se llevará a cabo el ingreso de los postulantes a las instalaciones del examen?",
         "¿Dónde se puede encontrar el horario de ingreso para el examen?",
         "¿Qué sucede si un postulante llega después del horario establecido?",
         "¿Cuál es el procedimiento para el ingreso a las instalaciones del examen?"
@@ -965,7 +994,12 @@
     {
       "tag": "articulo57",
       "patterns": [
-        "¿Cómo se llevará a cabo el ingreso del postulante a las instalaciones del examen de admisión Extraordinario u Ordinario General?",
+       	"¿Enviaran a travez del correo electronico con que debo ingresar y el horario de ingreso?",
+	"Porque medio nos comunicaran acerca de la rendicion de examen?",
+	"¿Existe protocolos de ingreso si fuera asi nos enviaran para tener conocimiento a nuestros correos electronónicos?",
+	"¿Cual es el procedimiento del desarrollo de examen?",
+	"¿Cual es el procedimiento para el ingreso para rendir el examen de admisión?",  
+	"¿Cómo se llevará a cabo el ingreso del postulante a las instalaciones del examen de admisión Extraordinario u Ordinario General?",
         "¿Dónde puedo encontrar los protocolos establecidos para el desarrollo del examen?",
         "¿Cómo se comunicarán los protocolos a los postulantes?",
         "¿Cuándo se publicarán los protocolos en la web?",
@@ -976,6 +1010,23 @@
         "El ingreso del postulante a las instalaciones donde se rendirá el examen de admisión Extraordinario u Ordinario General se llevará a cabo siguiendo los protocolos establecidos para el desarrollo del examen. Estos protocolos se publicarán en la página web oficial y serán enviados a los correos institucionales respectivos de los postulantes. Es importante estar atento a la comunicación de estos protocolos para garantizar un proceso de ingreso adecuado y seguro.",
         "Los postulantes deben seguir protocolos específicos al ingresar para rendir el examen de admisión. Esto incluye cumplir con los horarios establecidos, presentar documentación requerida, y seguir las instrucciones de los supervisores del examen para garantizar un proceso ordenado y seguro.",
         "El ingreso del postulante a las instalaciones donde se llevará a cabo el examen de admisión Extraordinario u Ordinario General se efectuará siguiendo los protocolos establecidos para el desarrollo del examen. Estos protocolos estarán disponibles en la página web oficial y se enviarán a los correos institucionales respectivos de los postulantes. Es esencial estar pendiente de la comunicación de estos protocolos para garantizar un ingreso sin contratiempos y cumplir con las disposiciones establecidas."
+      ]
+    },
+  {
+      "tag": "articulo58",
+      "patterns": [
+        "¿Qué sucede si no cumplo con los protocolos de ingreso?",
+	"¿Qué sucede si no cumplo con los protocolos de desarrollo de examen?",
+        "¿Qué sucede si doy datos falsos?",
+	"¿Que sucede si logro ingresar un aparato tecnologico?",
+	"¿Debido a que falta podria ser sancionad?",
+	"¿Porque motivo me podrian inhabilitar del proceso de admisión?",
+	"Porque motivo me podrian anular mi vacante si en caso obtengo el ingreso?"
+	      
+      ],
+      "responses": [
+        "Constituye falta conducente a la inhabilitación de postulación del proceso de admisión o anulación de su ingreso en caso logre una vacante, si durante cualquiera de las etapas del mismo, el postulante incurriese en alguna de los actos establecidos a continuación: a) El no cumplimiento de los protocolos de ingreso y desarrollo del examen. b) Presentar documentos falsos o adulterados en la inscripción o en algún acto posterior. c) Proporcionar datos falsos. d) Realizar reclamos que estén fuera del conducto regular debido (FUT, carta o solicitud dirigida a la oficina de admisión); ocasionando algún tipo de agresión físicas o verbales en contra del personal de la UNAM, o perturbando el normal desarrollo del proceso. e) Ser descubierto portando, durante el ingreso o desarrollo del examen de admisión, alguno de los siguientes equipos electrónicos: Smartphone, IPod, IPad, celular, radio, MP4, MP3, USB, microcámara, reloj, audífono, smartwatch o cualquier material de transmisión y recepción de datos. f) Los postulantes que colaboren en las infracciones arriba mencionadas.", 
+        "La universidad evaluará la sanción de INHABILITACIÓN DEFINITIVA de postular a la UNAM en aquellos casos que considere de falta grave"
       ]
     },
 
@@ -996,7 +1047,9 @@
     {
       "tag": "articulo60",
       "patterns": [
-        "¿Qué hace la Comisión Central de Admisión si cometo una infracción según los artículos 58 y 59?",
+
+	"¿Cuáles son las sanciones si cometo una infracción en el proceso de admision?",      
+	"¿Qué hace la Comisión Central de Admisión si cometo una infracción según los artículos 58 y 59?",
         "¿Cómo se decide la separación o inhabilitación de un postulante que infringe las reglas?",
         "¿Qué proceso sigue la Comisión Central de Admisión para tomar medidas contra un postulante que infringe el reglamento?"
       ],
