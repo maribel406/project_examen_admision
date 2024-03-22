@@ -375,21 +375,15 @@
         "¿Qué requisitos debo cumplir para inscribirse bajo la Modalidad de Traslado Interno en la UNAM?",
         "¿Qué tipo de constancia de créditos necesito para la Modalidad de Traslado Interno?",
         "¿Se requiere un certificado de estudios de educación secundaria para el Traslado Interno?",
-        "¿Qué declaro en relación a los procesos disciplinarios en mi escuela de origen?",
         "¿Es necesario presentar una declaración jurada de no adeudo de material bibliográfico para el Traslado Interno?",
         "¿Qué tipo de fotografía debo presentar para el proceso de admisión como Traslado Interno?",
-        "¿Qué sucede si proporciono información falsa en mi declaración jurada para el Traslado Interno?",
         "¿Cómo puedo asegurar que cumplo con los requisitos para el Traslado Interno?",
-        "¿Qué pasa si el Formato N°17 está deteriorado, manchado o borroneado?",
         "¿Qué necesito para inscribirme con Traslado Interno en la UNAM?",
         "¿Qué constancia de créditos necesito para el Traslado Interno?",
         "¿Es necesario tener un certificado de estudios de secundaria para el Traslado Interno?",
-        "¿Qué debo decir sobre los procesos disciplinarios en mi escuela anterior?",
         "¿Debo presentar una declaración jurada de no adeudo de material bibliográfico para el Traslado Interno?",
-        "¿Qué tipo de foto debo llevar para la admisión como Traslado Interno?",
-        "¿Qué pasa si doy información falsa en mi declaración jurada para el Traslado Interno?",
         "¿Cómo puedo asegurarme de que cumplo con los requisitos para el Traslado Interno?",
-        "¿Qué ocurre si el Formato N°17 está dañado?"
+        "Modalidad de Traslado Interno"
       ],
       "responses": [
         "Para inscribirse en la UNAM bajo la Modalidad de Traslado Interno, se requieren los siguientes documentos y declaraciones: 1) Constancia de haber aprobado al menos dos periodos lectivos semestrales o 36 créditos, emitida por la Dirección de Actividades y Servicios Académicos (DASA), 2) Certificado de estudios de educación secundaria o constancia de logros de aprendizaje, 3) Declaración jurada de no haber sido sancionado o estar incurriendo en proceso disciplinario en la escuela de origen, 4) Declaración jurada de no adeudo de material bibliográfico, 5) Fotografía a color en fondo blanco, 6) Documento Nacional de Identidad. Proporcionar información falsa en estas declaraciones puede resultar en sanciones legales. La declaración no procede si está deteriorada, manchada o borroneada."
@@ -401,21 +395,18 @@
       "patterns": [
         "¿Qué debo declarar en el Formato N°18 para el proceso de admisión?",
         "¿Cómo puede afectar un proceso disciplinario en la UNAM a mi admisión?",
-        "¿Qué consecuencias legales enfrento si proporciono información falsa en el Formato N°18?",
         "¿Qué implica no estar sancionado o en proceso disciplinario en la UNAM?",
-        "¿Qué sucede si mi declaración jurada del Formato N°18 está deteriorada, manchada o borroneada?",
         "¿Es necesario detallar algún proceso disciplinario anterior en la UNAM en el Formato N°18?",
-        "¿Cómo se verifica la información sobre procesos disciplinarios en el Formato N°18?",
         "¿Qué sucede si he sido sancionado previamente en la UNAM?",
         "¿Pueden afectar las sanciones disciplinarias anteriores mi proceso de admisión en la UNAM?",
         "¿De qué trata el formato N° 18?",
-        "¿Qué debe declarar bajo juramento el postulante en el Formato N°18 para el proceso de admisión 2024-I de la Universidad Nacional de Moquegua?",
-        "¿Cuál es la consecuencia de proporcionar información falsa en la declaración del Formato N°18?",
+        "¿Qué debe declarar bajo juramento el postulante en el Formato N°18 ?",
         "¿Qué delitos podrían cometerse si se proporciona información falsa en la declaración del Formato N°18?",
         "¿Qué condiciones invalidarían la declaración en el Formato N°18?",
         "¿Quién debe firmar el Formato N°18 para el proceso de admisión 2024-I de la Universidad Nacional de Moquegua?",
-        "¿Por qué es importante que la declaración en el Formato N°18 no esté deteriorada, manchada o borroneada?",
-        "¿Qué información adicional debe incluirse en el Formato N°18?"
+        "¿Qué información adicional debe incluirse en el Formato N°18?",
+        "'No haber sido sancionado o estar en curso de proceso disciplinario en la Universidad Nacional de Moquegua'",
+        
       ],
       "responses": [
         "En el Formato N°18 para el proceso de admisión 2024-I de la Universidad Nacional de Moquegua, el postulante debe declarar bajo juramento 'No haber sido sancionado o estar en curso de proceso disciplinario en la Universidad Nacional de Moquegua'. Proporcionar información falsa en esta declaración puede resultar en el delito de falsa declaración en Procesos Administrativos - Artículo 411º del Código Penal y Delito contra la Fe Pública - Título XIX del Código Penal acorde al artículo 32º de la Ley Nº 27444 Ley de Procedimientos Administrativos General. La declaración no procede si está deteriorada, manchada o borroneada. El formato debe ser firmado por el solicitante y/o su representante legal, junto con la huella digital del estudiante."
@@ -428,19 +419,15 @@
         "¿Qué debo declarar en el Formato N°19 para el proceso de admisión?",
         "¿Qué consecuencias legales enfrento si proporciono información falsa en el Formato N°19?",
         "¿Es necesario especificar la escuela profesional en la que no adeudo material bibliográfico?",
-        "¿Qué sucede si mi declaración jurada del Formato N°19 está deteriorada, manchada o borroneada?",
         "¿Cómo se verifica el no adeudo de material bibliográfico en el proceso de admisión?",
-        "¿Qué tipo de material bibliográfico debo considerar en mi declaración jurada?",
         "¿Puede afectar un adeudo previo de material bibliográfico mi admisión en la UNAM?",
         "¿Para qué es el formato N° 19?",
         "¿Qué debe declarar bajo juramento el postulante en el Formato N°19 para el proceso de admisión 2024-I de la Universidad Nacional de Moquegua?",
-        "¿Cuál es la consecuencia de proporcionar información falsa en la declaración del Formato N°19?",
         "¿Qué delitos podrían cometerse si se proporciona información falsa en la declaración del Formato N°19?",
         "¿Qué condiciones invalidarían la declaración en el Formato N°19?",
         "¿Quién debe firmar el Formato N°19 para el proceso de admisión 2024-I de la Universidad Nacional de Moquegua?",
-        "¿Por qué es importante que la declaración en el Formato N°19 no esté deteriorada, manchada o borroneada?",
         "¿Qué información adicional debe incluirse en el Formato N°19?",
-        "¿Cuál es el propósito final del Formato N°19 en el proceso de admisión 2024-I de la Universidad Nacional de Moquegua?"
+        "'No adeudar material bibliográfico durante mis años de estudio'"
       ],
       "responses": [
         "En el Formato N°19 para el proceso de admisión 2024-I de la Universidad Nacional de Moquegua, el postulante debe declarar bajo juramento 'No adeudar material bibliográfico durante mis años de estudio' en la escuela Profesional de su elección. Proporcionar información falsa en esta declaración puede resultar en el delito de falsa declaración en Procesos Administrativos - Artículo 411º del Código Penal y Delito contra la Fe Pública - Título XIX del Código Penal acorde al artículo 32º de la Ley Nº 27444 Ley de Procedimientos Administrativos General. La declaración no procede si está deteriorada, manchada o borroneada. El formato debe ser firmado por el solicitante y/o su representante legal, junto con la huella digital del estudiante. "
@@ -455,9 +442,7 @@
         "¿Cómo puedo comprobar que cumplo con los requisitos de discapacidad para la admisión?",
         "¿Es necesario presentar el certificado de estudios secundarios para la Modalidad de Personas con Discapacidad?",
         "¿Qué formato debo llenar si soy persona con discapacidad?",
-        "¿Qué consecuencias legales enfrento si proporciono información falsa en el Formato N°20?",
-        "¿Qué sucede si mi declaración jurada del Formato N°20 está deteriorada, manchada o borroneada?",
-        "¿Es el carnet de CONADIS obligatorio para postular bajo esta modalidad?",
+        "¿Es el carnet de CONADIS obligatorio para postular bajo la modalidad de personas con discapacidad?",
         "¿Para qué es el formato 20?",
         "¿Cuáles son los requisitos para ingresar bajo la Modalidad de Personas con Discapacidad en la Universidad Nacional de Moquegua para el proceso de admisión 2024-I?",
         "¿Qué documentos debe presentar un postulante para cumplir con los requisitos de ingreso bajo la Modalidad de Personas con Discapacidad?",
@@ -478,20 +463,17 @@
         "¿Qué certificado de convalidación o revalidación de estudios necesito para la Modalidad de Convenio Andrés Bello?",
         "¿Cómo acredito mis estudios secundarios si provengo de otro país para la Modalidad de Convenio Andrés Bello?",
         "¿Qué documentos necesito presentar si nací en el extranjero para la Modalidad de Convenio Andrés Bello?",
-        "¿Qué tipo de fotografía debo presentar para la inscripción bajo la Modalidad de Convenio Andrés Bello?",
         "¿Qué consecuencias legales enfrento si proporciono información falsa en el Formato N°21?",
-        "¿Qué sucede si mi declaración jurada del Formato N°21 está deteriorada, manchada o borroneada?",
         "¿Qué documentos debo presentar para postular bajo la modalidad de Convenio Andrés Bello?",
         "¿Cuáles son los requisitos específicos que debe cumplir un postulante para ingresar bajo la Modalidad de Convenio Andrés Bello según el Formato N°21?",
         "¿Qué documentos son necesarios para demostrar la convalidación y/o revalidación de estudios según el Formato N°21?",
         "¿Qué documentos se requieren para acreditar los estudios secundarios según el Formato N°21?",
-        "¿Cuáles son las opciones de documentos aceptados para demostrar la identidad del postulante si nació en el extranjero según el Formato N°21?",
-        "¿Cuál es el requisito respecto a la fotografía que debe incluir el postulante según el Formato N°21?",
-        "¿Qué documento de identificación debe proporcionar el postulante según el Formato N°21?",
         "¿Qué consecuencias puede enfrentar un postulante si proporciona información falsa en la declaración bajo juramento del Formato N°21?",
         "¿Cuál es la condición para que proceda la declaración bajo juramento según el Formato N°21?",
         "¿Quién debe firmar el Formato N°21, el solicitante o su representante legal?",
-        "¿Qué acción adicional debe realizar el postulante junto con la firma en el Formato N°21 según las instrucciones proporcionadas?"
+        "¿Qué acción adicional debe realizar el postulante junto con la firma en el Formato N°21 según las instrucciones proporcionadas?",
+        "Formato 21",
+        "Modalidad de Convenio Andrés Bello"
       ],
       "responses": [
         "En el Formato N°21 para el proceso de admisión 2024-I de la Universidad Nacional de Moquegua, el postulante debe declarar bajo juramento que cumple con los requisitos para ingresar bajo la Modalidad de Convenio Andrés Bello. Esto incluye: 1) Certificado de convalidación y/o revalidación de estudios emitido por el MINEDU, 2) Certificado de estudios secundarios acreditado por la entidad educativa oficial del país de procedencia, 3) Partida de nacimiento, pasaporte o carnet de extranjería si el alumno nació en el extranjero, 4) Fotografía a color en fondo blanco, 5)Documento Nacional de Identidad. Proporcionar información falsa en esta declaración puede resultar en sanciones legales. La declaración no procede si está deteriorada, manchada o borroneada. Finalmente, el formato debe ser firmado por el solicitante y/o su representante legal, junto con la huella digital del estudiante."
@@ -502,18 +484,11 @@
       "tag": "formato_22",
       "patterns": [
         "¿Qué información personal necesito para llenar el Formato N°22?",
-        "¿Qué documentos de identidad son válidos para la preinscripción en la UNAM?",
-        "¿Cómo debo indicar mi carrera y modalidad de estudio en el formulario?",
-        "¿Qué detalles de mi educación secundaria son necesarios para el Formato N°22?",
-        "¿Es obligatorio incluir mi correo electrónico y número de teléfono en el Formato N°22?",
         "¿Dónde debo firmar en el Formato N°22 y es necesaria la huella dactilar?",
-        "¿Qué significa 'Índice Derecho' en la sección de la huella digital del Formato N°22?",
-        "¿Necesito la firma de un apoderado si soy menor de edad al momento de la preinscripción?",
         "¿Qué ocurre si mi Formato N°22 está deteriorado o tiene errores al momento de entregarlo?",
-        "¿Qué formato se debe presentar para solicitar la inscripción del postulante?",
         "¿Cuáles son los documentos requeridos para completar el Formato N°22?",
         "¿Qué datos específicos debe proporcionar al completar el Formato N°22?",
-        "¿Cuál es la información personal obligatoria para llenar el Formato N°22?",
+        "¿Cuál es la información personal obligatoria para llenar el Formato 22?",
         "¿Qué información de identificación se necesita para llenar el Formato N°22?",
         "¿Cuáles son los requisitos de información personal para el Formato N°22?",
         "¿Qué datos de contacto debo incluir al completar el Formato N°22?",
@@ -522,12 +497,7 @@
         "¿Cuáles son los requisitos específicos para completar el Formato N°22 de preinscripción en la UNAM?",
         "¿Qué documentos de identificación son necesarios para incluir en el Formato N°22 de preinscripción en la UNAM?",
         "¿Qué información personal se solicita en el Formato N°22 de preinscripción en la UNAM?",
-        "¿Qué pasos son necesarios para completar el proceso de pago del derecho de examen de admisión al presentar el Formato N°22 de preinscripción en la UNAM?",
-        "¿Cuál es el procedimiento para firmar el Formato N°22 de preinscripción en la UNAM?",
-        "¿Por qué es importante acompañar el Formato N°22 de preinscripción en la UNAM con una huella dactilar?",
-        "¿Qué medidas adicionales se requieren si el solicitante es menor de edad al completar el Formato N°22 de preinscripción en la UNAM?",
-        "¿Cuál es la importancia de asegurarse de que el Formato N°22 de preinscripción en la UNAM esté en buenas condiciones al entregarlo?",
-        "¿Qué sucede si el Formato N°22 de preinscripción en la UNAM está deteriorado, manchado o borroneado al entregarlo?"
+        "Formato 22"
       ],
       "responses": [
         "Para completar el Formato N°22 de preinscripción en la UNAM, necesitarás proporcionar tu nombre completo, DNI, fecha de nacimiento, sexo, información de contacto(dirección,telefono,correo), detalles de tu institución educativa previa, la carrera a la que postulas y la sede de examen. Además, debes cancelar el monto correspondiente al derecho de examen de admisión y presentar el recibo. Es importante que el formulario esté firmado y  acompañado de tu huella dactilar. En caso de ser menor de edad, se requerirá la firma de un apoderado. Asegúrate de que el formulario no esté deteriorado, manchado o borroneado al entregarlo."
