@@ -92,6 +92,7 @@
       "tag": "formato_06",
       "patterns": [
         "¿Qué debo declarar en el Formato N° 06 para el proceso de admisión 2024-I?",
+        "¿Qué debo declarar en el Formato 6 ?",
         "¿Qué pasa si la información que proporciono en el Formato N° 06 es falsa?",
         "¿Cuáles son las consecuencias legales de proporcionar información falsa en el Formato N° 06?",
         "Si ya utilicé mi derecho de admisión como víctima de terrorismo o bajo el plan integral de reparaciones en otra universidad, ¿puedo inscribirme en la UNAM?",
@@ -100,7 +101,6 @@
         "¿Necesito alguna documentación adicional para demostrar que no he usado mi derecho de admisión como víctima en otra universidad?",
         "¿Puedo utilizar este derecho de admisión más de una vez en diferentes universidades?",
         "¿Qué documentos necesito para completar el Formato N° 06?",
-        "¿Hay algún requisito adicional para postulantes que se inscriben como víctimas de terrorismo o bajo el plan de reparaciones?",
         "¿Qué debo decir en el Formato N° 06 para entrar a la UNAM en 2024-I?",
         "¿Qué pasa si digo algo falso en el Formato N° 06?",
         "¿Cuáles son las consecuencias legales si digo algo falso en el Formato N° 06?",
@@ -110,7 +110,7 @@
         "¿Necesito más documentos para demostrar que no usé mi derecho de admisión como víctima en otra universidad?",
         "¿Puedo usar este derecho de admisión más de una vez en diferentes universidades?",
         "¿Qué papeles necesito para completar el Formato N° 06?",
-        "¿Hay algún requisito extra para los que se inscriben como víctimas de terrorismo o bajo el plan de reparaciones?"
+        "¿De que trata el formato 6?"
       ],
       "responses": [
         "En el Formato N° 06, debes declarar bajo juramento que no has hecho uso del derecho de admisión en tu condición de víctima de terrorismo o bajo el plan integral de reparaciones en otra institución. Si la información que proporcionas resulta ser falsa, declaras haber incurrido en el delito de falsa declaración en procesos administrativos y delito contra la Fe Pública, según el artículo 411º del Código Penal y la Ley Nº 27444 de Procedimientos Administrativos General. Importante: El formulario no será válido si está deteriorado, manchado o borroneado."
@@ -142,16 +142,13 @@
         "¿Puedo haber usado mi derecho de admisión bajo la Modalidad Egresado de COAR en otra universidad y postular a la Universidad Nacional de Moquegua?",
         "¿Qué ocurre si se descubre que he utilizado mi derecho de admisión bajo la Modalidad Egresado de COAR en otra universidad?",
         "¿Qué implica hacer una declaración falsa en el Formato N°08?",
-        "¿Cuáles son las consecuencias legales de una declaración falsa en el proceso de admisión?",
         "¿En qué delitos incurriría si mi declaración en el Formato N°08 es falsa?",
         "¿Qué sucede si mi declaración jurada del Formato N°08 está deteriorada, manchada o borroneada?",
         "¿Puede aceptarse una declaración jurada del Formato N°08 en mal estado para la inscripción?",
         "¿Cuál es la importancia del estado físico de la declaración jurada del Formato N°08?",
         "¿Qué pasa si descubren que usé mi derecho de admisión como egresado de COAR en otra universidad?",
         "¿Qué pasa si mi declaración en el Formato N°08 es falsa?",
-        "¿Qué ocurre si mi declaración jurada en el Formato N°08 está dañada?",
-        "¿Puede ser aceptada una declaración jurada en mal estado para la inscripción?",
-        "¿Por qué es importante que la declaración jurada en el Formato N°08 esté en buen estado?"
+        "¿Puede ser aceptada una declaración jurada en mal estado para la inscripción?"
       ],
       "responses": [
         "En el Formato N°08 para el proceso de admisión 2024-I de la Universidad Nacional de Moquegua, el postulante debe declarar bajo juramento 'No haber hecho uso del derecho de admisión bajo la Modalidad Egresado de COAR en ninguna otra Universidad a nivel Nacional'. Si se proporciona información falsa, se incurre en el delito Contra la Fé Pública - Artículo 427º del Código Penal y en la Ley Nº 27444 Ley de Procedimientos Administrativos General. Además, la declaración jurada no procede si se encuentra deteriorada, manchada o borroneada."
@@ -166,13 +163,11 @@
         "¿Qué debo declarar en relación a las sanciones por faltas graves o actividades antideportivas?",
         "¿Es necesario comprometerse a participar en el equipo de la universidad?",
         "¿Qué tipo de fotografía debo presentar para el proceso de admisión como deportista calificado?",
-        "¿Qué consecuencias legales enfrento si mi declaración jurada es falsa?",
-        "¿Qué sucede si mi declaración jurada está deteriorada, manchada o borroneada?",
         "Qué requisitos necesito cumplir para postular en modalidad de deportista?",
         "¿Necesito alguna resolución específica del Instituto Peruano del Deporte para apuntarme?",
         "¿Qué debo decir sobre las sanciones por faltas graves o actividades antideportivas?",
-        "¿Qué pasa si mi declaración jurada está dañada, manchada o borrosa?",
-        "¿Qué requisitos necesito cumplir para postular como deportista?"
+        "¿Qué requisitos necesito cumplir para postular como deportista?",
+        "Inscripcion bajo la Modalidad de Deportista Calificado"
       ],
       "responses": [
         "Para inscribirse en la UNAM bajo la Modalidad de Deportista Calificado, se requieren los siguientes documentos: 1) Resolución emitida por el Presidente del Instituto Peruano del Deporte o su equivalente local, 2) Certificado de estudios o constancia de logros de aprendizaje, 3) Declaración jurada de no haber sido sancionado por falta grave o actividades antideportivas, 4) Documento compromiso de participación en la representación del equipo de la universidad, y 5) Fotografía reciente a color en fondo blanco, 6)Documento Nacional de Identidad. En caso de falsedad en la declaración jurada, se incurre en el delito de falsificación de documentos según el Art. 427º del Código Penal y el TUO de la Ley de Procedimiento Administrativo General. La declaración jurada no procede si se encuentra deteriorada, manchada o borroneada."
@@ -185,21 +180,18 @@
         "¿Qué debo declarar bajo juramento en el Formato N°10 para el proceso de admisión 2024-II?",
         "¿Qué implica no haber sido sancionado por falta grave o actividades antideportivas?",
         "¿A qué sanciones me enfrento si mi declaración jurada en el Formato N°10 es falsa?",
-        "¿Qué sucede si mi declaración jurada del Formato N°10 está deteriorada, manchada o borroneada?",
         "¿Es aceptable presentar una declaración jurada del Formato N°10 en mal estado para la inscripción?",
         "¿Qué tipo de sanciones se consideran como faltas graves o actividades antideportivas?",
-        "¿Quién verifica la información proporcionada en la declaración jurada del Formato N°10?",
         "¿Necesito presentar pruebas adicionales para respaldar mi declaración en el Formato N°10?",
         "¿Hay algún procedimiento de seguimiento si se descubre una irregularidad en mi declaración jurada?",
         "¿Qué debo decir bajo juramento en el Formato N°10 para entrar en el proceso de admisión 2024-II?",
         "¿Qué significa no haber sido castigado por falta grave o actividades antideportivas?",
         "¿Qué castigos puedo recibir si digo algo falso en mi declaración jurada en el Formato N°10?",
-        "¿Qué pasa si mi declaración jurada en el Formato N°10 está dañada, manchada o borrosa?",
         "¿Es aceptable presentar una declaración jurada en mal estado para la inscripción?",
         "¿Qué tipos de sanciones se consideran como faltas graves o actividades antideportivas?",
-        "¿Quién verifica la información en la declaración jurada del Formato N°10?",
         "¿Necesito mostrar pruebas adicionales para apoyar mi declaración en el Formato N°10?",
-        "¿Hay algún proceso de seguimiento si se encuentra alguna irregularidad en mi declaración jurada?"
+        "¿Hay algún proceso de seguimiento si se encuentra alguna irregularidad en mi declaración jurada?",
+        "Declaracion  bajo juramento 'No haber sido sancionado por falta grave o actividades antideportivas por el Tribunal o Comisión de Justicia de la Federación o Comisión Nacional respectiva'"
       ],
       "responses": [
         "En el Formato N°10 para el proceso de admisión 2024-I de la Universidad Nacional de Moquegua, el postulante debe declarar bajo juramento 'No haber sido sancionado por falta grave o actividades antideportivas por el Tribunal o Comisión de Justicia de la Federación o Comisión Nacional respectiva'. En caso de falsedad en la declaración jurada, se incurre en el delito de falsa declaración en Procesos Administrativos - Artículo 411º del Código Penal y en el Delito contra la Fe Pública - Título XIX del Código Penal y artículo 32º de la Ley Nº 27444 Ley de Procedimientos Administrativos General. La declaración jurada no procede si se encuentra deteriorada, manchada o borroneada."
