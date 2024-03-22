@@ -45,11 +45,12 @@
       "tag": "formato_03",
       "patterns": [
         "¿Qué debo declarar en el Formato N° 03 para el proceso de admisión?",
-        "¿Qué pasa si la información que proporciono en el Formato N° 03 es falsa?",
         "¿Cuál es la consecuencia legal de proporcionar información falsa en el Formato N° 03?",
         "¿Qué debo hacer si ya he utilizado mi derecho de admisión como primero o segundo puesto en otra universidad?",
         "¿Qué debo verificar antes de presentar el Formato N° 03?",
-        "¿Donde encuentro la declaración jurada de no haber hecho uso del derecho de admisión del primer o segundo puesto en ninguna universidad pública o privada a nivel nacional?"
+        "¿Donde encuentro la declaración jurada de no haber hecho uso del derecho de admisión del primer o segundo puesto en ninguna universidad pública o privada a nivel nacional?",
+        "¿Qué debo declarar en el Formato 3 para el proceso de admisión?"
+        
       ],
       "responses": [
         "En el Formato N° 03, debes declarar bajo juramento que no has hecho uso del derecho de admisión del primer o segundo puesto en ninguna otra universidad a nivel nacional. Si la información que proporcionas resulta ser falsa, declaras haber incurrido en el delito de falsa declaración en procesos administrativos y delito contra la Fe Pública, según el artículo 411º del Código Penal y la Ley Nº 27444 de Procedimientos Administrativos General. Importante: El formulario no será válido si está deteriorado, manchado o borroneado."
@@ -61,11 +62,11 @@
       "patterns": [
         "¿Qué necesito para inscribirme como víctima del terrorismo en la UNAM?",
         "¿Dónde consigo la constancia del Consejo Nacional de Calificación para víctimas del terrorismo?",
-        "¿Es obligatorio presentar el certificado de estudios secundarios para la inscripción en la modalidad como víctima del terrorismo?",
         "Si ya utilicé el beneficio para víctimas del terrorismo en otra universidad, ¿puedo inscribirme en la UNAM bajo la misma modalidad?",
-        "¿Qué tipo de foto tengo que presentar para la inscripción como víctima del terrorismo?",
+        "¿Como me inscribo en la admision si soy víctima del terrorismo?",
         "¿Qué consecuencias enfrento si presento información falsa en mi declaración jurada como víctima del terrorismo?",
-        "¿Qué debo hacer si mi documentación para la inscripción como víctima del terrorismo está deteriorada o manchada?"
+        "¿Qué debo hacer si mi documentación para la inscripción como víctima del terrorismo está deteriorada o manchada?",
+        "¿Qué  Formatose necesita para la modalidad de Víctimas del Terrorismo? "
       ],
       "responses": [
         "Para inscribirte en la UNAM bajo la Modalidad de Víctimas del Terrorismo necesitas: 1) Copia simple de la constancia del Consejo Nacional de Calificación según el Art. 2º del D.S. 051- 88- PCM o de la Dirección de Bienestar de la Policía Nacional del Perú o Comando Conjunto de las Fuerzas Armadas, 2) Certificado de estudios de educación secundaria o constancia de logros de aprendizaje, que puedes obtener en https://constancia.minedu.gob.pe, 3) Declaración jurada de no haber hecho uso de este derecho o modalidad en otra universidad del país, y 4) Fotografía a color en fondo blanco, 5)Documento Nacional de Identidad. Proporcionar información falsa puede resultar en un delito contra la fe pública y falsificación de documentos. Importante: El formulario no será válido si está deteriorado, manchado o borroneado."
@@ -77,14 +78,10 @@
       "patterns": [
         "¿Qué documentos necesito para inscribirme bajo la Modalidad de Plan Integral de Reparaciones?",
         "¿Dónde obtengo la constancia del Consejo Nacional de Calificación para el Plan Integral de Reparaciones?",
-        "¿Es necesario el certificado de estudios secundarios para inscribirme en esta modalidad?",
         "¿Puedo inscribirme en esta modalidad si ya he accedido a educación superior como víctima según el Plan Integral de Reparaciones?",
-        "¿Qué ocurre si proporciono información falsa en mi declaración jurada bajo el Plan Integral de Reparaciones?",
-        "¿Qué debo hacer si mi documentación está deteriorada o manchada?",
         "¿Qué papeles necesito para apuntarme bajo el Plan Integral de Reparaciones?",
-        "¿Necesito el papel de la secundaria para apuntarme en este plan?",
         "¿Qué pasa si digo algo falso en mi declaración bajo el Plan Integral de Reparaciones?",
-        "¿Qué debo hacer si mis documentos están dañados o manchados?"
+        "¿Como es la Modalidad de Plan Integral de Reparaciones?"
       ],
       "responses": [
         "Para inscribirte en la UNAM bajo la Modalidad de Plan Integral de Reparaciones necesitas: 1) Constancia del Consejo Nacional de Calificación expedida por el Consejo de Reparaciones de la PCM según la Ley N° 28592, presentando los documentos oficiales en original, 2) Declaración jurada de no haber accedido a educación superior no universitaria o universitaria como víctima según el Plan Integral de Reparaciones, 3) Certificado de estudios de educación secundaria o constancia de logros de aprendizaje, obtenida de https://constancia.minedu.gob.pe, y 4) Fotografía a color en fondo blanco, 5)Documento Nacional de Identidad. Proporcionar información falsa puede resultar en un delito contra la fe pública y falsificación de documentos. Importante: El formulario no será válido si está deteriorado, manchado o borroneado."
