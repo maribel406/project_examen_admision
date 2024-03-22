@@ -3,25 +3,18 @@
     {
       "tag": "formato_01",
       "patterns": [
-        "¿Dónde obtengo el certificado de estudios o constancia de logros de aprendizaje?",
-        "¿Qué tipo de fotografía debo presentar para la inscripción?",
-        "¿Qué pasa si doy información falsa en mi declaración jurada?",
+        "¿Qué tipo de cosas debo presentar para la inscripción del proceso de admisión?",
         "¿Cuáles son los requisitos básicos para la inscripción al examen de admisión?",
-        "¿Qué debo hacer si mi documento de inscripción está deteriorado o manchado?",
         "¿Donde obtengo el Formato 1 para inscribirse al proceso de admisión 2024-I?",
+        "¿De que trata el formato 1?",
         "¿Cuales son los requisitos para llenar el Formato 1?",
-        "¿Puedo presentar el formato llenado en un editor pdf",
-        "¿Donde obtengo la declaración jurada de inscripción?",
         "¿Qué necesito para inscribirme en el examen de admisión 2024-I?",
-        "¿Dónde consigo el certificado de estudios o constancia de logros?",
-        "¿Cómo debe ser la foto que presento para la inscripción?",
-        "¿Qué pasa si doy información falsa en mi inscripción?",
+        "Necesito informacion para el proceso de admisión",
         "¿Cuáles son los requisitos para inscribirse al examen de admisión?",
-        "¿Qué hago si mi documento de inscripción está dañado?",
         "¿Dónde obtengo el Formato 1 para inscribirme?",
         "¿Qué necesito para llenar el Formato 1?",
-        "¿Puedo usar un editor PDF para el formato?",
-        "¿Dónde encuentro la declaración jurada de inscripción?"
+        "¿Que informacion se tiene que poner en el formato 1?",
+        "¿Dónde encuentro la declaración jurada de inscripción para proceso de admisión ?"
       ],
       "responses": [
         "Para la inscripción al proceso de admisión 2024-I de la UNAM se requiere: 1) Registro en línea de la inscripción, 2) Certificado de estudios o constancia de logros de aprendizaje, que se puede obtener en https://constancia.minedu.gob.pe, y 3) Fotografía reciente a color en fondo blanco, 4) Documento Nacional de Identidad. Además, es necesario conocer y cumplir con todas las disposiciones y sanciones del Reglamento de Admisión 2023-II. Presentar información falsa en la declaración jurada puede resultar en un delito contra la fe pública y falsificación de documentos. Es importante recordar que no se procederá con la inscripción si los documentos están deteriorados, manchados o borrosos. Este formato podrás encontrar en el REGLAMENTO GENERAL DEL PROCESO DE ADMISION 2024-I Pág. 22"
@@ -33,22 +26,14 @@
       "patterns": [
         "¿Qué necesito presentar para inscribirme como primero o segundo puesto de mi escuela?",
         "¿Qué pasa si ya he usado mi derecho de admisión como primer o segundo puesto en otra universidad?",
-        "¿Qué tipo de fotografía debo presentar para la inscripción?",
-        "¿Cuáles son las consecuencias de proporcionar información falsa en mi declaración jurada?",
         "¿Qué documentos necesito para inscribirme en la modalidad de primeros puestos?",
-        "¿Dónde obtengo el certificado de estudios para la inscripción?",
         "¿Qué tipo de fotografía debo presentar para la inscripción en la modalidad de primeros puestos?",
         "¿Necesito una constancia de mérito de mi centro educativo para inscribirme?",
         "¿Puedo inscribirme en esta modalidad si ya usé mi derecho de primer o segundo puesto en otra universidad?",
         "¿La constancia o certificado otorgado por mi institución es obligatoria para postular como primero o segundo puesto de mi escuela?",
         "¿Qué sucede si ya me inscribí como primer o segundo puesto en otra universidad?",
-        "¿Qué tipo de foto debo llevar para la inscripción?",
-        "¿Qué pasa si proporciono información falsa en mi declaración jurada?",
         "¿Qué papeles necesito para la modalidad de primeros puestos?",
-        "¿Dónde consigo el certificado de estudios para la inscripción?",
-        "¿Cómo debe ser la foto para la modalidad de primeros puestos?",
         "¿Necesito una constancia de mérito de mi escuela para inscribirme?",
-        "¿Puedo inscribirme en esta modalidad si ya utilicé mi derecho en otra universidad?",
         "¿Es obligatorio el certificado de mi institución para postular como primero o segundo puesto de mi escuela?"
       ],
       "responses": [
