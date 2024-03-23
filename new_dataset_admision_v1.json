@@ -1134,7 +1134,10 @@
     {
       "tag": "formato_01",
       "patterns": [
-        "¿Qué necesito para inscribirme en el proceso de admisión 2024-I?",
+       "¿Cuáles son las sanciones si no cumplo con la declaración jurada firmada?",
+	"El formato numero 1 se presenta em digital o fisico?",
+	"¿El formato 1 es indispensable presentarlo?",
+	"¿Qué necesito para inscribirme en el proceso de admisión 2024-I?",
         "¿Dónde obtengo el certificado de estudios o constancia de logros de aprendizaje?",
         "¿Qué tipo de fotografía debo presentar para la inscripción?",
         "¿Qué pasa si doy información falsa en mi declaración jurada?",
@@ -1149,7 +1152,11 @@
     {
       "tag": "formato_02",
       "patterns": [
-        "¿Qué necesito presentar para inscribirme como primero o segundo puesto de mi escuela?",
+        "¿Cuáles son las sanciones si no cumplo con la declaración jurada firmada?",
+	"¿Cuáles son las sanciones si no cumplo con en formato 2?",
+	"El formato numero 2 se presenta em digital o fisico?",
+	"¿El formato 2 es indispensable presentarlo?",
+	"¿Qué necesito presentar para inscribirme como primero o segundo puesto de mi escuela?",
         "¿Dónde consigo el certificado de estudios o constancia de logros de aprendizaje?",
         "¿Qué pasa si ya he usado mi derecho de admisión como primer o segundo puesto en otra universidad?",
         "¿Qué tipo de fotografía debo presentar para la inscripción?",
@@ -1169,7 +1176,9 @@
     {
       "tag": "formato_03",
       "patterns": [
-        "¿Qué debo declarar en el Formato N° 03 para el proceso de admisión?",
+        "¿Cuáles son las sanciones si no cumplo con la declaración jurada (formato 3) firmada?",
+	"¿Qué debo declarar en el Formato N° 03 para el proceso de admisión?",
+	"Que datos solicita el formato 3?",
         "¿Qué pasa si la información que proporciono en el Formato N° 03 es falsa?",
         "¿Cuál es la consecuencia legal de proporcionar información falsa en el Formato N° 03?",
         "¿Qué debo hacer si ya he utilizado mi derecho de admisión como primero o segundo puesto en otra universidad?",
@@ -1183,7 +1192,8 @@
     {
       "tag": "formato_04",
       "patterns": [
-        "¿Qué necesito para inscribirme como víctima del terrorismo en la UNAM?",
+        "¿Cuáles son las sanciones si no cumplo con la declaración jurada (formato 4) firmada?",
+	"¿Qué necesito para inscribirme como víctima del terrorismo en la UNAM?",
         "¿Dónde consigo la constancia del Consejo Nacional de Calificación para víctimas del terrorismo?",
         "¿Es obligatorio presentar el certificado de estudios secundarios para la inscripción en la modalidad como víctima del terrorismo?",
         "Si ya utilicé el beneficio para víctimas del terrorismo en otra universidad, ¿puedo inscribirme en la UNAM bajo la misma modalidad?",
@@ -1199,7 +1209,8 @@
     {
       "tag": "formato_05",
       "patterns": [
-        "¿Qué documentos necesito para inscribirme bajo la Modalidad de Plan Integral de Reparaciones?",
+        "¿Cuáles son las sanciones si no cumplo con la declaración jurada (formato 5) firmada?",
+	"¿Qué documentos necesito para inscribirme bajo la Modalidad de Plan Integral de Reparaciones?",
         "¿Dónde obtengo la constancia del Consejo Nacional de Calificación para el Plan Integral de Reparaciones?",
         "¿Es necesario el certificado de estudios secundarios para inscribirme en esta modalidad?",
         "¿Puedo inscribirme en esta modalidad si ya he accedido a educación superior como víctima según el Plan Integral de Reparaciones?",
@@ -1215,7 +1226,8 @@
     {
       "tag": "formato_06",
       "patterns": [
-        "¿Qué debo declarar en el Formato N° 06 para el proceso de admisión 2023-II?",
+        "¿Cuáles son las sanciones si no cumplo con la declaración jurada (formato 6) firmada?",
+	"¿Qué debo declarar en el Formato N° 06 para el proceso de admisión 2024-I?",
         "¿Qué pasa si la información que proporciono en el Formato N° 06 es falsa?",
         "¿Cuáles son las consecuencias legales de proporcionar información falsa en el Formato N° 06?",
         "Si ya utilicé mi derecho de admisión como víctima de terrorismo o bajo el plan integral de reparaciones en otra universidad, ¿puedo inscribirme en la UNAM?",
@@ -1234,7 +1246,8 @@
     {
       "tag": "formato_07",
       "patterns": [
-        "¿Cómo me inscribo en la UNAM si soy egresado de un Colegio de Alto Rendimiento?",
+       "¿Cuáles son las sanciones si no cumplo con la declaración jurada (formato 7) firmada?",
+	"¿Cómo me inscribo en la UNAM si soy egresado de un Colegio de Alto Rendimiento?",
         "¿Qué documento necesito para probar mi educación en un Colegio de Alto Rendimiento?",
         "Si ya utilicé la modalidad de egresado de Colegio de Alto Rendimiento en otra universidad, ¿puedo usarla de nuevo en la UNAM?",
         "¿Qué tipo de foto necesito para la inscripción como egresado de Colegio de Alto Rendimiento?",
@@ -1250,7 +1263,8 @@
     {
       "tag": "formato_08",
       "patterns": [
-        "¿Qué debo declarar específicamente en el Formato N°08 para el proceso de admisión 2023-II?",
+        "¿Cuáles son las sanciones si no cumplo con la declaración jurada (formato 8) firmada?",
+	"¿Qué debo declarar específicamente en el Formato N°08 para el proceso de admisión 2024-I?",
         "¿Puedo haber usado mi derecho de admisión bajo la Modalidad Egresado de COAR en otra universidad y postular a la Universidad Nacional de Moquegua?",
         "¿Qué ocurre si se descubre que he utilizado mi derecho de admisión bajo la Modalidad Egresado de COAR en otra universidad?",
         "¿Qué implica hacer una declaración falsa en el Formato N°08?",
@@ -1268,7 +1282,8 @@
     {
       "tag": "formato_09",
       "patterns": [
-        "¿Qué documentos necesito para inscribirme como deportista calificado en la UNAM?",
+        "¿Cuáles son las sanciones si no cumplo con la declaración jurada (formato 9) firmada?",
+	"¿Qué documentos necesito para inscribirme como deportista calificado en la UNAM?",
         "¿Se requiere alguna resolución específica del Instituto Peruano del Deporte para la inscripción?",
         "¿Qué debo declarar en relación a las sanciones por faltas graves o actividades antideportivas?",
         "¿Es necesario comprometerse a participar en el equipo de la universidad?",
@@ -1284,7 +1299,8 @@
     {
       "tag": "formato_10",
       "patterns": [
-        "¿Qué debo declarar bajo juramento en el Formato N°10 para el proceso de admisión 2023-II?",
+        "¿Cuáles son las sanciones si no cumplo con la declaración jurada (formato 10)  firmada?",
+	"¿Qué debo declarar bajo juramento en el Formato N°10 para el proceso de admisión 2024-I?",
         "¿Qué implica no haber sido sancionado por falta grave o actividades antideportivas?",
         "¿A qué sanciones me enfrento si mi declaración jurada en el Formato N°10 es falsa?",
         "¿Qué sucede si mi declaración jurada del Formato N°10 está deteriorada, manchada o borronada?",
@@ -1302,7 +1318,8 @@
     {
       "tag": "formato_11",
       "patterns": [
-        "¿Qué implica el compromiso de honor como deportista calificado en la UNAM?",
+       "¿Cuáles son las sanciones si no cumplo con la declaración jurada (formato 11) firmada?",
+	"¿Qué implica el compromiso de honor como deportista calificado en la UNAM?",
         "¿Qué responsabilidades tengo respecto al material deportivo entregado por la UNAM?",
         "¿Cómo debo comportarme en los entrenamientos y representaciones oficiales de la UNAM?",
         "¿Qué se espera de mi conducta hacia profesores, personal administrativo y compañeros en la UNAM?",
