@@ -15,14 +15,21 @@
       "tag": "articulo3",
       "patterns": [
         "¿Cuántas veces al año se hace el proceso de admisión?",
-        "¿Cómo es el proceso de admisión?",
-        "¿Cuándo se realiza el proceso de admision?",
-        "¿El proceso de admisión es anual o semestral?",
+	"¿Cuántas veces al año se hace el examen de admisión en UNAM?",
+	"cuantos examenes hay en la unam por año",
+	"hay examen a mitad del año en la UNAM",
+	"hay examen a medio año en la UNAM",
         "¿Se realiza proceso de admisión a mitad de año?",
-        "¿En el año solo se realiza un proceso de admisión?"
+        "¿En el año solo se realiza un proceso de admisión?",
+	"¿Cuántas pruebas se realizan en la UNAM cada año?",
+	"¿Sabes cuántos exámenes se hacen en la UNAM anualmente?",
+	"¿Cuál es la cantidad de exámenes que se dan en la UNAM en un año?",
+	"¿Cuántos exámenes se programan en la UNAM ?",
+	"¿Cuántos exámenes se dan en la UNAM?",
+	"¿Cuántos exámenes hay en la UNAM por año?"
       ],
       "responses": [
-        "La Universidad realiza su proceso de admisión dos veces al año conforme al calendario académico anual de la UNAM,  aprobado por la Comisión Organizadora."
+        "La Universidad realiza su proceso de admisión dos veces al año conforme al calendario académico anual de la UNAM, aprobado por la Comisión Organizadora."
       ]
     },
 
